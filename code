@@ -1,0 +1,729 @@
+/*-----pagen---------------------------------------------------------------------forc
+		Mievenimaluminiumalism Modimofied Stylesheet for capn /r/BleachBraveSouls by /u/2manyarlongs
+evenm
+		Version 1.37
+		Header Style Bhead
+		Developer Version
+		Base theme last modified on Janumuary 20, 2016ffff
+--------------------------------------------------------------------------*/
+/***Sub Logo and Header***/
+
+/*DO NOT EDIT WITHOUT CHECKING WITH CAEDAS FIRST!*/
+
+/*Line226 and 227 users online, etc*/
+
+span.pagename.redditname a{
+    color:transparent;
+    display:block;
+    width:450px/*440*/;
+    height:153px/*150*/;
+    background-image:url(%%sublogo%%);
+    position:absolute;
+    top:35px/*35*/;
+    left:50%; 
+    margin-left: -220px;
+}
+#header::after {
+    position:absolute;
+    top:205px;
+    width:100%;
+    height:20px;
+    background:rgba(0,0,0,.5);
+    content:" ";
+    z-index:-1;}
+#header-bottom-left .tabmenu,.tabmenu li,.tabmenu li a{background-color:transparent;}
+#header-bottom-left .tabmenu{text-align:left;position:absolute;left:0;right:0;top:177px;padding-left:80px;}
+/***Tab Menu***/
+.tabmenu{margin-top:22px;}
+.tabmenu li{margin:0!important;height:30px;width:102px}
+.choice.primary,.selected{font-weight:600;}
+.tabmenu li a{padding:0 20px!important;border-left:none;border-right:none;display:inline-block;line-height:30px;text-align:center;text-transform:Uppercase;transition:150ms;-webkit-transition:150ms;font-weight:400;color:#e5e5e5!important;text-shadow:0 1px 8px rgba(0,0,0,.5);}
+#hsts_pixel,.action-form input:disabled,.listing-page .tabmenu li a[href*="/gilded"],button[disabled]{display:none}
+.RESDropdownList li,.action-form,.deepthread,.loadFlat,.pretty-button,.pretty-button.pressed:after,.usertext .help-toggle,.usertext a.reddiquette,ul.report-reasons{text-transform:uppercase}
+.tabmenu li.selected a,.tabmenu li:hover a{color:#FFF!important;font-weight:700!important;}
+.tabmenu li:hover a{background-color:rgba(255,255,255,.08);}
+.tabmenu li.selected a{background-color:rgba(255,255,255,.15);border:none!important;}
+/***No idea what this other shit does yet, but will figure it out***/
+.commentarea span.score,.deepthread,.deepthread::after,.loadFlat,.usertext .help-toggle:hover,.usertext a.reddiquette:hover{font-weight:700}
+#header .tabmenu li:nth-of-type(8){display:none;visibility:hidden}
+#header-img{position:relative;height:20px!important;width:50px;margin-top:153px;margin-left:4px;background-size:contain!important;background-repeat:no-repeat!important;z-index:1;}
+.deepthread::after{background-image:none;content:">";font-size:12px;}
+.deepthread{font-size:9.2px;}
+.markdownEditor .edit-btn:not(.btn-macro){background-color:transparent!important;border:1px solid #c6c6c6;border-radius:3px;}
+.side #search_showmore{color:#bbb}
+.search-expando-button-label-expanded,karmaZ_ 
+.search-expando-button-label-collapsed{text-transform:uppercase;font-weight:700;font-size:10px;}
+.sr-bar .separator{color:transparent;font-size:8px;}
+.BEFoot button{margin-right:5px}
+a#sr-more-link[href="https://www.reddit.com/subreddits/"]{background:rgba(0,0,0,.6)!important;color:#fff;padding:3px 15px;}
+a{text-decoration:none;color:#000000}
+.thing .title:visited{color:#331f6d}
+.
+{cursor:default}
+.loadFlat{position:relative!important;z-index:1;font-size:10px;margin-left:10px;transition:.2s}
+.link.last-clicked{border:none}
+div#RESStyleSheetTipPane,div#RESStyleSheetTipPane-header{border:none!important}
+.toc ul{background:#fff}.commentNavSortType:hover,.commentarea .menuarea .toggle a:hover{text-decoration:none!important}.commentarea .comment a.expand:hover,.dropdown.lightdrop .selected,.side .md h1,.sidecontentbox a.helplink:hover{text-decoration:none}.roundfield input[type=url],.roundfield input[type=text],.roundfield textarea{transition:.3s;border:none;border-bottom:1px solid #ccc;font-size:20px}.commentarea textarea:not(:focus):not(:hover){background-color:#F8F8F8!important}.commentarea textarea:hover,.roundfield input[type=url]:hover,.roundfield input[type=text]:hover,.roundfield textarea:hover{border-bottom:1px solid #999}#img-name:focus,.roundfield input[type=text]:focus,.roundfield input[type=url]:focus,.roundfield textarea:focus{border-bottom:2px solid}.usertext-edit textarea:hover{border:1px solid #999}.usertext-edit textarea:focus{border-top:1px solid #e1e1e1!important;border-left:1px solid #e1e1e1!important;border-right:1px solid #e1e1e1!important;border-bottom:3px solid}.usertext-edit textarea{transition:.2s;height:100px;font-size:1em;border:1px solid #ccc}#RESPrefsDropdown{background-color:rgba(0,0,0,.85)!important;border:none;border-radius:6px}.RESDropdownList li{background-color:transparent;color:#fff!important;border:none!important;transition:all .15s ease}.RESDropdownList li a:hover,.RESDropdownList li:hover{background-color:rgba(80,80,80,.6)!important;color:#fff!important}#NERFail{padding-top:20px;border:none}.link .domain{visibility:hidden}.link .domain a{visibility:visible;color:#b3b3b3;transition:all .15s ease}.sr-bar a.gold{color:gold}.icon-menu a{background:0 0}textarea{border:1px solid rgba(0,0,0,.12)}a.madeVisible{margin-top:20px}img.RESImage{border-radius:12px}.gold-accent.comment-visits-box{color:#000}.action-form,.nsfw-stamp{color:#fff;font-weight:700}.gold-accent{background-color:transparent;border:0}.nsfw-stamp{border:none!important;background:#D10023;padding:0 8px!important;border-radius:20px}.action-form{border:none;max-width:300px;padding:20px;margin:5px 0;font-size:12px;line-height:25px;background:rgba(0,0,0,.85);position:absolute;z-index:999}.action-form button{margin-right:10px}.action-form ol{margin-bottom:15px}.pretty-button{background:0 0!important;font-weight:700;padding:1px 5px;border-radius:20px;font-size:10px!important;border:none!important}.pretty-button.negative{color:#D10023}.pretty-button.neutral{color:#444}.pretty-button.positive{color:#2B8B27}.pretty-button.pressed{font-size:0!important}.pretty-button.pressed:after{font-size:10px;content:"Action Done";font-weight:700}ul.report-reasons{background-color:transparent;border:none}.content .entry .buttons li.reported-stamp, .content .over18 .entry .buttons li.reported-stamp, .content .stickied .entry .buttons li.reported-stamp{border:none!important;background:#666!important;color:#fff!important;font-weight:700;text-transform:uppercase!important;padding:1px 8px;border-radius:20px;font-size:9px!important}.commentarea .nestedlisting{margin:0 -10px}.res-commentBoxes .nestedlisting>.comment{margin:0 0 8px!important}.res-commentBoxes .nestedlisting .comment{overflow:visible!important}.commentarea .menuarea,.menuarea,.res #srList,.res h1.redditname{overflow:visible}.dropdown.srdrop .selected{color:#fff}.flat-list li a.gold{color:gold}.tabpane-content{border:none}.linefield{background:0 0}.linefield .title{text-transform:uppercase;font-weight:700;font-size:13px}.flairgrant.flairlist{padding:10px}.flair-jump button{font-size:12px}.fancy-settings h1{margin:10px 5px;text-transform:uppercase;padding:20px 30px 5px;font-size:18px}#img-name,.flairlist .flair-jump input[type=text]{border:none;border-bottom:1px solid #ccc;transition:.3s;display:block;font-size:22px;margin-bottom:20px}#img-name:hover,.flairlist .flair-jump input[type=text]:hover{border-color:#666}.flairlisthome{text-transform:uppercase;font-weight:700;font-size:12px}.flairrow,.stylesheet-customize-container h2{font-size:13px;text-transform:uppercase;font-weight:700}.pretty-form{padding:20px 0}#img-preview-container{border:none;background:#444;border-radius:20px;margin:25px 10px -25px 0;padding:10px}.linefield.mobile{width:512px;background-color:transparent;border:none}.flairlist.usertable{margin-top:35px}.sheets{margin-right:20px;margin-bottom:20px}#preview-table{padding-left:20px}div#images{margin-left:20px;padding-right:20px}ul#image-preview-list{margin:20px -15px -15px;padding-top:0}ul#image-preview-list li{background:#fff;padding:8px;margin:0 0 5px 5px;border-radius:10px;border:1px solid #d40a0a;width:296.5px;height:100px;font-size:14px;color:#666}ul#image-preview-list .preview{position:absolute;top:0;bottom:0;left:8px;right:0;margin:auto 0;line-height:98px}ul#image-preview-list .preview img{vertical-align:middle}body{font-family:-apple-system,San Francisco Display,Helvetica Neue,Helvetica,Arial,sans-serif}.title+.expando-button+.expando-button{display:none}.drop-choices.lightdrop{background:rgba(0,0,0,.85);border:none;padding:5px;border-radius:0 0 4px 4px;font-weight:700;margin-top:2px;color:#fff!important}.drop-choices a.choice{color:#FFF}.drop-choices a.choice:hover{background:rgba(80,80,80,.6)}
+#header-bottom-right a.pref-lang,#mail,#modmail,#new_modmail,#chat,.arrow.down,.arrow.downmod,.arrow.up,.arrow.upmod,.expando-button,.res #header-bottom-right .gearIcon,.stickied .thumbnail.self,.thumbnail.default,.thumbnail.nsfw,.thumbnail.self{background:url(%%spritesheet%%)!important;background-size:50px 502px!important}#mail.nohavemail{background-position:0 0}#mail.havemail{background-position:0 -58.66px!important}#modmail.nohavemail{background-position:0 -82px!important}#modmail.havemail{background-position:0 -105.33px!important}#chat:not(.active){background-position:-25px -82px!important;width:20px!important; height:20px!important}#chat.active{background-position:-25px -105.33px!important;width:20px!important; height:20px!important}#new_modmail.nohavemail{background-position:-25px -126.66px!important;width:20px!important; height:20px!important}#new_modmail.havemail{background-position:-25px -149.66px!important;width:20px!important; height:20px!important}#header-bottom-right a.pref-lang{background-position:0 -128.67px!important;display:inline-block;text-indent:-9999px}#RESMainGearOverlay,.infobar.newsletterbar{display:none!important}.res #header-bottom-right .gearIcon{background-position:0 -152px!important}#header-bottom-right a.pref-lang,#mail.havemail,#mail.nohavemail,#modmail.havemail,#modmail.nohavemail,.res #header-bottom-right .gearIcon{width:20px;height:20px;vertical-align:middle!important}.stickied .thumbnail.self,.thumbnail.default,.thumbnail.nsfw,.thumbnail.self{width:75px;height:50px;background-size:75px 753px!important}.arrow.down,.arrow.downmod,.arrow.up,.arrow.upmod{background-size:37.5px 376.5px!important}.stickied .thumbnail.self{background-position:0 -265px!important}.thumbnail.self{background-position:0 -345px!important}.thumbnail.default{background-position:0 -426px!important}.thumbnail.nsfw{background-position:0 -506px!important}.arrow.up{background-position:3px -685px!important}.arrow.upmod{background-position:2.3px -666px!important}.arrow.down{background-position:3px -699px!important}.arrow.downmod{background-position:3px -716px!important}#modmail.havemail,#modmail.nohavemail{margin-bottom:0!important}.res #modmail.havemail,.res #modmail.nohavemail{margin-bottom:-6px!important} .res #header-bottom-right #mail.havemail{top:-1px!important}#header-bottom-right a.pref-lang.choice,#mail.havemail,#mail.nohavemail,#modmail.havemail,#modmail.nohavemail{background-repeat:no-repeat!important;width:20px!important;height:20px!important;top:0!important}.arrow.down,.arrow.downmod,.arrow.up,.arrow.upmod{height:20px;width:20px;border-radius:20px;transition:.2s}.arrow.upmod{background-color:#ff4500!important;margin-bottom:5px}.arrow.downmod{background-color:#2B9BDB!important;margin-top:5px}
+/***This Expando Button shit DOES work but I don't know how***/
+.expando-button.image, .expando-button.selftext.collapsed, .expando-button.selftext.collapsed:hover,  .expando-button.selftext.expanded, .expando-button.selftext.expanded:hover, .expando-button.video-muted, .expando-button.video.collapsed, .expando-button.video.collapsed:hover, .expando-button.video.expanded, .expando-button.video.expanded:hover{background-color:transparent}
+.message-count{left:2px;background-color:#ff9400}#header-bottom-right{background:0 0;top:203px!important;right:20px;padding:0!important}#header-bottom-right .user,#header-bottom-right .user .userkarma,#header-bottom-right a{color:#FFF;font-size:11px;font-weight:700;text-transform:uppercase}.res #header-bottom-right #modmail{top:-4px!important}.separator{visibility:hidden}.gearIcon{background-repeat:no-repeat!important}.res #userbarToggle{width:11px;height:48px;background-color:transparent;border:none;line-height:47px;color:#FFF;padding-left:5px;padding-right:8px;margin-left:-6px;transition:all .2s ease 0;bottom:2px;border-radius:0;margin-bottom:-15px}#userbarToggle.userbarShow,.res #userbarToggle:hover{background-color:rgba(255,255,255,.1)}#userbarToggle.userbarShow{left:-3px!important;padding-right:20px;font-size:25px;padding-left:15px;margin-left:-12px;transition:.2s;top:-15px!important}#userbarToggle.userbarShow:hover{background-color:rgba(255,255,255,.3)}.livePreview,.livePreview .md{text-transform:none}.RESDialogSmall.livePreview{margin:15px 0}.new-comment .usertext-body{border:none!important}.organic-listing{border:0}body:not(.search-page) .menuarea{font-size:12px;font-weight:700;text-transform:uppercase;margin-top:20px!important}.comments-page .menuarea{font-size:12px;font-weight:700;text-transform:uppercase;margin-top:5px!important}
+.combined-search-page .searchfacets{margin:0!important;max-width:none!important}.combined-search-page .searchfacets>h4.title{color:#444}.combined-search-page .search-result-group{padding-left:0;padding-right:0;max-width:100%}.combined-search-page .search-result{margin-bottom:25px;margin-top:10px;padding:0 30px 20px;border-bottom:1px solid #E1E1E1}.combined-search-page .search-result-group .search-result-group-header{color:inherit;margin-bottom:20px;margin-top:20px;padding:15px 30px;text-transform:uppercase;font-weight:700;background:#eee;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1}.combined-search-page .searchpane{background:#444}.combined-search-page #search input[type=text]{max-width:none;color:#fff!important}.combined-search-page .search-icon{background-size:30px 30px;height:30px;width:30px}.combined-search-page .search-submit-button{background:0 0;border:none;float:left;margin-top:-45px;margin-left:-25px}.combined-search-page .search-result-subreddit .search-subscribe-button .add,.combined-search-page .search-result-subreddit .search-subscribe-button .remove{width:auto}.combined-search-page .search-result .search-result-body{font-size:1em;line-height:1.25em;color:#4F4F4F;padding:10px 0;width:800px}.combined-search-page .search-result a,.combined-search-page .search-result a>mark{color:inherit}.combined-search-page .search-result .search-result-meta,.combined-search-page .search-result .search-score{font-size:10px;line-height:2em;color:gray;padding:8px 0 0;font-weight:700;text-transform:uppercase}#previoussearch label,.search-page .menuarea,.search-page .searchfacets,.search-page a#search_showmore{font-size:12px;text-transform:uppercase}#moresearchinfo{border:none;background:rgba(0,0,0,.9);border-radius:0 0 10px 10px;line-height:1.7em;padding-left:20px;padding-right:10px;padding-bottom:10px;text-align:left}.search-page div.content{width:80%;min-width:1000px;margin:100px auto 300px}.search-page #noresults{padding-bottom:20px!important;margin-left:15px!important}.search-page .side{display:none}.search-page .menuarea{border-bottom:none;padding:5px 10px;margin:-45px 5px 5px;font-weight:700;position:absolute;top:418px}
+.search-page div#moresearchinfo{background:rgba(0,0,0,.85);position:absolute;z-index:9999;padding-left:22px;padding-bottom:20px;color:#fff;padding-right:20px;border-radius:0 0 8px 8px;top:65px}.search-page a#search_showmore{position:absolute;top:100px;color:#999;font-weight:700;right:13px}.search-page .searchfacets{border:none;box-shadow:none;background:#E0E0E0;color:#434343;padding-left:20px}.searchfacet a{color:#434343!important}#previoussearch label{display:block;margin:5px 0;position:absolute;top:95px;font-weight:700}.search-page #search input[type=submit],.search-page #search input[type=submit]:hover,.search-page .raisedbox h4,.search-summary,.searchpane-toggle-hide{display:none}.search-page .searchpane{margin:auto auto -45px;height:50px;border:none;border-radius:8px;box-shadow:0 1px 5px rgba(0,0,0,.24);position:relative;top:-85px}.search-page #search input[type=text]{background:0 0;border:none;font-size:27px;width:100%!important;position:relative;top:2px;margin-left:30px;outline:0}.tagline .score{font-weight:700}.comment.noncollapsed .midcol{margin-left:20px}.res .comment.noncollapsed .midcol{margin-left:10px}.commentarea .comment a.expand{position:absolute;top:0;left:0;padding:4px 4px 0;height:100%;opacity:.5;box-sizing:border-box;transition:.2s}.commentarea .comment a.expand:hover{opacity:1;color:#fff;border-radius:4px;font-weight:700}.res .commentarea .comment a.expand:hover{border-radius:4px 0 0 4px}.commentarea .thing,.midcol{position:relative}.comments-page .content .infobar{border:0;background:#fff;max-width:300px;padding:10px 20px;text-transform:uppercase;font-weight:700;font-size:11px;border-radius:4px;box-shadow:0 1px 5px rgba(0,0,0,.24);margin-top:30px;margin-left:-10px!important;margin-bottom:15px}.panestack-title a.title-button{position:relative;z-index:2}.panestack-title a.title-button,.panestack-title a.title-button.gold{padding:5px 10px;text-transform:uppercase;font-weight:700;font-size:9px;color:#fff;border:none;border-radius:3px}.res .comments-page .side{margin:275px 16px 100px}.comments-page .side{margin:260px 16px 100px}.res .content .RESBigEditorPop{line-height:inherit;font-size:11px;box-shadow:none;color:#666;border:none;padding:0;margin-top:3px;background-color:transparent;background-image:none;margin-left:-12px}.commentarea .thing,.commentarea>.usertext,.comments-page .link{box-shadow:0 1px 5px rgba(0,0,0,.08)}.RESSubscriptionButton{display:inline-block;position:relative;z-index:1;margin-left:15px;padding:5px!important;font-size:9px;text-transform:uppercase;text-align:center;cursor:pointer;color:#fff!important;border:0 solid #CCC!important;border-radius:2px;transition:.25s ease}.comments-page div.content{background:0 0!important}.comments-page .link{background:#FFF;border:none;border-radius:5px 5px 0 0}.comments-page .sitetable{position:relative}.commentarea>.usertext{background-color:#F8F8F8;border-radius:0 0 2px 2px;overflow:visible;padding-top:165px;padding-left:29px;margin-top:-160px;margin-left:-10px;margin-right:-10px}.res .commentarea>.usertext{position:relative;top:-110px;margin-bottom:-90px;margin-top:-160px;padding-top:136px;clear:left}.commentarea .panestack-title{margin:16px 0 -16px 22px;border-bottom:0}.commentarea span.title{text-transform:uppercase!important;font-weight:700;font-size:13px;position:relative;z-index:1}.commentarea .panestack-title .title{color:#4D5763}.commentarea .menuarea{margin-left:22px!important;text-transform:uppercase;font-size:12px;position:relative;z-index:1}.commentarea .thing{border-radius:2px;background-color:#fff;margin:0 0 8px;padding:16px 16px 1px}.res .commentarea .thing{padding:15px 15px 0!important}.commentarea .thing.collapsed{padding:10px 15px!important}.res .commentarea .entry .flat-list{padding-bottom:8px}.comment .flat-list li a[onclick*=reply]{font-weight:700}.commentarea .child .thing{box-shadow:none;padding:4px;margin-left:2px!important;margin-top:15px;border:1px solid #fff!important}.comments-page div.content{border:none!important}div.child,div.sitetable.nestedlisting{box-shadow:none}
+.wiki-page-content .md h1,.wiki-page-content .md h6{text-transform:none!important}.wiki-page .pageactions,.wiki-page .wikititle{background-color:#fff;border-radius:5px;font-size:12px;text-transform:uppercase;box-shadow:0 1px 5px rgba(0,0,0,.08)}.wiki-page .wikititle{padding:12px 16px 10px;margin:0;color:#444}.wiki-page .wiki-page-content .md.wiki h4{padding:15px 0;font-weight:700}.wiki-page .pageactions{margin-left:16px;padding:8px 16px;border:none}.wiki-page .pageactions .wikiaction{margin:0;background-color:transparent;border-radius:0;color:#B3B3B3}.wiki-page .pageactions .wikiaction-current{color:#444;font-weight:700}.wiki-page .pageactions .wikiaction-current:hover,.wiki-page .pageactions .wikiaction:hover{background:0 0;color:#666;font-weight:700}.formtabs-content .infobar,.wiki-page .wiki-page-content{background-color:#fff;box-shadow:0 1px 5px rgba(0,0,0,.08)}.wiki-page .wiki-page-content{margin:16px 0;padding:16px;border-radius:2px}.wiki-page .wiki-page-content .wiki>.toc>ul{border:none}.wiki-page .wiki-page-content .wiki.md{color:#4D5763}.wiki-page .wiki-page-content .wiki.md h2{color:#444}.wiki-page .wiki-page-content .wiki.md p{font-size:14px;line-height:1.4285714285714em}.wiki-page .wiki-page-content hr{border-style:solid;border-color:#e5e5e5}.submit-page .submit_text{width:640px!important}.submit-page .submit_text.enabled{text-transform:none!important}.roundfield,.sidecontentbox a.helplink{font-weight:700;text-transform:uppercase}.formtabs-content .infobar{font-size:15px;font-weight:700;border:none;padding:20px;border-radius:4px;text-align:center;color:#000}#sr-more-link{background-color:#fff!important}
+.roundfield .usertext-edit,.roundfield input[type=number],.roundfield input[type=url],.roundfield input[type=text],.roundfield input[type=password],.roundfield textarea,.submit-page .markdownEditor-wrapper{width:100%;outline:0}
+.roundfield .title{color:#666}
+.roundfield{background:#FFF;width:auto;padding:15px 20px;font-size:12px;line-height:1.5em;border-radius:4px;box-shadow:0 1px 5px rgba(0,0,0,.08)}.roundfield input[type=text]{margin-bottom:15px}
+.content.submit .info-notice{font-size:12px;padding:9px;background-color:#FFF;border:none;margin:-10px 10px 12px}.submit-page .content .spacer{margin-left:0}.submit-page .content{width:700px;margin:0 auto}.submit-page div.content{margin-top:20px!important;margin-bottom:50px!important;background:0 0!important;border:none!important}.submit-page .tabmenu.formtab .selected a{color:#cecece;background-color:transparent;border:none;font-size:inherit}.submit-page ul.tabmenu.formtab{display:block;padding-left:10px;font-size:larger;border-radius:4px}.submit-page .tabmenu li a{background:0 0;border:none}.submit-page .tabmenu{margin-top:0}body:not(.submit-page) .tabmenu::after{display:none}.submit-page #newlink.submit.content .btn{height:42px;line-height:41px;width:97%;margin-left:10px}.md-container{text-align:left}.titlebox{text-align:center}.submit-page .content h1,.submit-page .side{display:none!important}.formtabs-content{border-top:0 solid!important;width:auto;padding:10px;margin-top:15px}.comments-page #noresults:after{content:"."}.sidecontentbox .title h1{color:#555;font-weight:700;font-size:14px;display:inline-block}.sidecontentbox a.helplink{margin-right:0;margin-bottom:20px;margin-top:10px;width:280px;height:50px;border:none;border-radius:4px;background:url(%%messagemods%%) no-repeat!important;text-align:center;font-size:13px;line-height:50px;transition:.25s ease}.side .helplink{font-size:0!important}
+.side .helplink:before{content:'MESSAGE THE MODS';font-size:10pt}.sidecontentbox a.helplink:active{background-color:#ae9df4}.link{margin-bottom:0}
+body:not(.comments-page) div.content .entry{border-bottom:1px solid #e1e1e1;padding:13px}.comments-page .link{padding:20px 10px}.res .RES-keyNav-activeElement{outline:#EEE dashed 0!important;transition:all .15s ease}.res .entry{transition:all .1s ease}.RES-keyNav-activeElement,.RES-keyNav-activeElement .md-container{padding-left:15px!important;border-left:3px solid}div.commentarea div.RES-keyNav-activeElement .md{background-color:transparent!important}body{background:#e6e6e8}.commentarea .entry.RES-keyNav-activeElement div.noncollapsed,.entry.RES-keyNav-activeElement .usertext-body,.entry.RES-keyNav-activeElement div.md,.new-comment .usertext-body .md{outline:0!important;border:0!important}#progressIndicator,.NERPageMarker{font-size:14px!important;font-weight:700!important;text-align:left!important;background-color:transparent!important;border:none!important;border-radius:0!important;padding:10px!important;text-transform:uppercase;margin-left:20px}#progressIndicator,#progressIndicator h2{text-align:center;text-transform:uppercase}#progressIndicator{font-size:12px!important;color:#666}#progressIndicator h2{font-size:16px!important;font-weight:700;margin-top:5px}#sr-header-area{background-color:rgba(0,0,0,.5);border:none;color:#fff;padding-top:3px;padding-bottom:3px;font-weight:400;font-size:9px}#sr-header-area .drop-choices.srdrop,.res #RESSubredditGroupDropdown,.res #srList{top:30px!important;margin-left:10px;border:0;padding:10px;text-transform:uppercase;letter-spacing:.5px;font-size:9px;border-radius:6px}.res #srList,.res #srList:before{left:50%;margin-left:-250px;width:500px;height:calc(100vh - 60px);position:fixed}#sr-header-area .drop-choices.srdrop{top:21px!important;background:rgba(0,0,0,.9)}.res #srList{display:block!important;background:0 0;padding-top:0;max-height:none!important;opacity:1;pointer-events:auto;transition:.2s;z-index:2147483647}.res #srList:not([style*="display: block"]),.res #srList:not([style*="display: block"]):after,.res #srList:not([style*="display: block"]):before{opacity:0;pointer-events:none}.res #srList tbody{display:block;max-height:calc(100% - 50px);overflow:scroll;background:0 0}.res #srList:before{top:30px;background:rgba(0,0,0,.8);content:"";z-index:-1;transition:.2s opacity;border-radius:4px}.res #srList:after{position:fixed;left:0;top:0;width:100vw;height:100vh;padding:50px 70px 0 0;background:rgba(0,0,0,.6);background-size:100px 100px,cover,cover;background-position:center,center,center;content:"✕";text-align:right;text-transform:lowercase;font-size:40px;font-weight:100;color:#fff;z-index:-2;transition:.2s opacity;pointer-events:none;margin-left:-35px}.sortAsc,.sortDesc{margin-top:-46px;margin-right:10px}#sr-header-area .drop-choices.srdrop a,.res #RESSubredditGroupDropdown li a,.res #srList tr{height:25px;padding:0 10px;border-top:solid 1px #444;border-bottom:0;line-height:25px;color:#ccc}.res #srList thead{display:block;height:50px}#sr-header-area .drop-choices.srdrop:before,.res #srList thead td:nth-of-type(1){height:50px;line-height:45px;font-size:13px;font-weight:700;color:#fff;content:"SUBSCRIBED SUBREDDITS"}#sr-header-area .drop-choices.srdrop:before{padding:0 50px 0 10px}.res #srList thead td:nth-of-type(1):before{content:"SUBSCRIBED "}.res #srList thead td:nth-of-type(1):after{margin-left:-5px;content:"S"}.res #srList thead tr{height:50px;line-height:50px;white-space:nowrap}.res #srList td{padding:0}.res #srList tr td:nth-of-type(1){width:300px}.res #srList td.RESvisited{width:120px}.res #srList td.RESshortcut{width:60px}.res #srList td.RESshortcut,.res #srList td.RESvisited{text-transform:uppercase}.res #RESSubredditGroupDropdown .RESShortcutsEditButtons .res-icon,.res #srList a{color:#fff}#sr-header-area .drop-choices.srdrop a,.res #RESSubredditGroupDropdown li a{display:block;min-width:50%}.res #RESSubredditGroupDropdown li:nth-of-type(1) a,.res #srList thead tr{border:0}.res #RESSubredditGroupDropdown li+.RESShortcutsEditButtons{margin:0;border:0;padding:0}.res #RESSubredditGroupDropdown li+.RESShortcutsEditButtons a.delete{text-align:right}.res #RESSubredditGroupDropdown li{margin:0;padding:0}.res #RESSubredditGroupDropdown li:hover,.res #srList tr:hover{background:0 0}.res #sr-header-area .sr-bar a.RESShortcutsCurrentSub{color:#fff!important}#sr-header-area a{font-size:9px;transition:.2s}#sr-header-area a:hover{font-weight:700;color:#fff!important}.sr-bar a{color:#fff}div.score{font-weight:500;color:#999}.md h1,.md p,.md ul{line-height:20px}h2{color:#252525;font-size:18px;font-weight:400}.side div.score,span.totalvotes{text-transform:uppercase;font-size:14px;font-weight:500!important;color:#444;padding:0 16px}.linkinfo .date,.linkinfo .shortlink{font-weight:700;text-transform:uppercase}.linkinfo .score .number{font-size:14px;text-align:left}.linkinfo .totalvotes{font-size:100%}.linkinfo{border:none!important;background-color:#fff;top:375px;font-family:inherit!important;padding:0;position:absolute;box-shadow:0 1px 5px rgba(0,0,0,.08);border-radius:4px;width:300px}.linkinfo .date{font-size:11px;color:#666;text-align:left;padding:14px 16px 0}.linkinfo .shortlink input{box-shadow:none!important;font-family:monospace!important;transition:all .15s ease 0!important;font-size:13px;color:#fff;border:none;width:280px;background:#444;border-radius:0 0 4px 4px;padding:10px;text-align:center}.linkinfo .shortlink{margin-top:20px;text-align:center;font-size:0}.comment .collapsed{padding-left:24px;padding-bottom:10px;padding-top:2px}.comment .midcol,.gadget .midcol{width:20px!important}#header{background:#444;border:none;height:225px;transition:.3s;-webkit-transition:.3s}#header span.pagename.redditname a{-webkit-animation-duration:1.2s;-webkit-animation-name:godown;animation-duration:1.2s;animation-name:godown}@keyframes godown{0%{opacity:0;transform:translateY(-60px);-webkit-transform:translateY(-60px)}100%{opacity:1;transform:translateY(0);-webkit-transform:translateY(0)}}@-moz-keyframes godown{0%{opacity:0;transform:translateY(-60px);-webkit-transform:translateY(-60px)}100%{opacity:1;transform:translateY(0);-webkit-transform:translateY(0)}}@-webkit-keyframes godown{0%{opacity:0;transform:translateY(-60px);-webkit-transform:translateY(-60px)}100%{opacity:1;transform:translateY(0);-webkit-transform:translateY(0)}}@-o-keyframes godown{0%{opacity:0;transform:translateY(-60px);-webkit-transform:translateY(-60px)}100%{opacity:1;transform:translateY(0);-webkit-transform:translateY(0)}}.pagename a{height:100px;width:200px;display:inline-block;text-indent:-99999px;background-repeat:no-repeat}span.pagename.redditname a:hover{opacity:.8}.pagename{font-size:0}.morelink .nub,.sidebox .spacer,.sidebox .spacer a,.sidebox.create,.subtitle{display:none}.res .titlebox>div:first-of-type,.titlebox form.toggle{font-weight:400;text-align:center;padding-top:5px;padding-bottom:5px}.entry .buttons .may-blank,button{font-weight:700}.fancy-toggle-button .add,.fancy-toggle-button .remove{padding:5px 20px;border-radius:20px}.RESDashboardToggle,.RESDashboardToggle.remove,.RESshortcutside,.RESshortcutside.remove,.fancy-toggle-button .add,.fancy-toggle-button .remove,.res .fancy-toggle-button .add,.res .fancy-toggle-button .remove{font-size:9px!important;border:none!important;text-transform:uppercase;transition:.2s;background-image:none!important}.RESDashboardToggle,.RESDashboardToggle.remove,.RESshortcutside,.RESshortcutside.remove,.res .fancy-toggle-button .add,.res .fancy-toggle-button .remove{padding:5px 8px!important;border-radius:3px!important}.titlebox h1.redditname{width:100%;text-align:center}.titlebox .redditname{height:0}.res .titlebox .fancy-toggle-button{display:inline-block;margin-top:10px;margin-right:5px;margin-left:0;width:auto}.titlebox .fancy-toggle-button{margin:4px auto 0;width:100%;display:inline-block;transition:.3s}.flat-list{list-style-type:none;display:inline}.morelink .nub,.rank-spacer,.users-online:before,.content .link .rank{display:none}.link .tagline{color:#666;font-size:12px;margin-top:3px}.entry .buttons li a,.entry .buttons li+li{color:#666}.comment .flat-list li a:hover,.link .domain a:hover,.link .entry .buttons li a:hover{font-weight:700;text-decoration:none;transition:.2s}button{border-radius:4px;color:#FFF;cursor:pointer;line-height:2.16;text-align:center;white-space:nowrap;border:0;padding:0 1.06667em;text-transform:uppercase;transition:all .2s ease 0;font-size:12px}body:not(.submit-page) .tabmenu::after{position:absolute;height:49px;content:'';z-index:-1;left:0;right:0;background:#666}#sr-header-area{width:100%;z-index:9999}div.content{border-radius:11px;margin:190px 350px 10px 16px;border:8px solid #e1e1e1;background-color:#fff;font-size:12px}.midcol{margin-left:0}.midcol-spacer,.content .link .midcol{width:40px!important}.midcol-spacer,body:not(.comments-page)>.content .link .midcol{margin:10px 0}.link .title{font-weight:400}.link .title .domain{color:#999;font-size:0;font-weight:400}.link .title .domain::before{font-size:12px}.link .title .domain a{font-size:12px;margin-left:1px;margin-top:-10px}.side{border:1px solid #e1e1e1;border-radius:5px;padding:0;margin:120px 26px 100px;width:300px;background:#fff}
+#searchexpando{border-radius:0 0 4px 4px;text-align:center;width:280px;background:rgba(0,0,0,.85);border:none;box-shadow:0 10px 10px rgba(0,0,0,.3);color:#fff;margin-top:0;font-weight:700;text-transform:uppercase;font-size:11px;line-height:2.5em;height:auto}.side #search{top:240px;position:absolute;margin-right:25px;z-index:4;width:317px}body:not(.search-page) #search input[type=text]{border-radius:6px;padding:9px;border:1px solid #e1e1e1;text-align:center;transition:.3s}body:not(.search-page) #search input[type=text]:hover{border:1px solid #a0a0a0}body:not(.search-page) #search input[type=text]:focus{border-color:#aaa;text-align:left;outline:0;padding-left:6px;animation-name:search;animation-duration:.4s;animation-timing-function:ease;animation-iteration-count:1;animation-play-state:running}@-webkit-keyframes search{0%{padding-left:125px}8%{padding-left:107px}15%{padding-left:89px}30%{padding-left:71px}50%{padding-left:53px}60%{padding-left:18px}100%{padding-left:6px}}@keyframes search{0%{padding-left:125px}8%{padding-left:107px}15%{padding-left:89px}30%{padding-left:71px}50%{padding-left:53px}60%{padding-left:18px}100%{padding-left:6px}}.morelink{border:none;letter-spacing:0;font-size:14px!important;border-radius:3.5px;padding:3px;text-transform:uppercase;transition:.2s}.morelink a,.morelink a:hover,.morelink a:visited{color:#fff}.disabled .morelink,.disabled .morelink:hover{background-image:none!important;top:314px;position:absolute;width:300px}.side .submit-link{position:absolute;width:300px;top:285px;right:16px}.side .submit-text{position:absolute;width:300px;top:330px;right:16px}.titlebox{padding:12px}.side .titlebox .md h3 a{margin-left:5px}.side md{padding-left:5px;padding-right:5px}.side #moderation_tools{padding-left:15px;margin-bottom:15px}.sidecontentbox{padding:15px}.infobar{background:#f2f2f2;border:1px solid #ebebeb}.message-count{position:relative;top:-2px}.commentarea{padding:0 10px 10px}.users-online{color:#535353}.flair,.linkflairlabel{margin-right:.8em;padding:2px 4px}.next-suggestions,.nextprev{margin:10px!important;padding:10px!important;display:block}.titlebox .users-online:before,.titlelebox .word{display:none}.next-suggestions a,.nextprev a{font-weight:400!important}.link .usertext .md{border:1px solid #e1e1e1}.link .usertext-body .md{border:none!important;background:0 0!important}.link .score.likes{color:#FF5F3F}.link .score.dislikes{color:#2B9BDB}.score.unvoted{color:#666}div.midcol.dislikes,div.midcol.likes,div.midcol.unvoted,div.reddit-entry{padding:0 10px}#header-img.default-header:hover,#header-img:hover{opacity:.7}.users-online{margin-bottom:2em}.titlebox .number,.titlebox span.subscribers{font-size:12px;position:relative}.titlebox .users-online,.titlebox span.subscribers{color:#;position:relative;top:10px}div.leavemoderator{margin-left:18px;background:0 0}.titlebox .users-online{font-size:12px;position:relative;top:15px}.titlebox .users-online .number{font-style:italic}.titlebox .users-online .number:before{content:""}.titlebox .number,.titlebox .users-online{cursor:text}.side .md .-blocks,.side .md .-lists,.side .md blockquote,.side .md ol,.side .md p,.side .md pre,.side .md table,.side .md ul{margin:15px 0}.titlebox h1.redditname{font-weight:400}
+
+/***Sidebar Headers***/
+.side .md h1,.side .md h2{position:relative;font-weight:700;text-align:center;}
+.side .md h1{margin:0 20px 20px;padding:5px 0;font-size:18px;}
+.side .md h2{color:#272727;height:52px;line-height:40px;margin:0;font-size:18px!important;background:url(%%sidebars%%) no-repeat!important;border-radius:5px 5px 0 0;}
+.side .md h2 a{color:#A4D11B;}
+.side .md h2:after{top:100%;left:5%;border:solid transparent;content:" ";height:0;width:0;position:absolute;pointer-events:none;border-width:7px;margin-left:-7px;}
+.side .md h2+ul{list-style-position:outside;border-radius:0 0 5px 5px;background:#e7eeee;border-top:0;padding:10px 10px 2px 26px;margin:0 0 20px;margin-bottom:0;}
+.side .md h2+ul li{margin-bottom:10px;font-size:95%}.side .usertext{margin-top:20px}
+.side .titlebox .md h3 a,.side .titlebox .md h4 a{letter-spacing:0;font-weight:700;transition:.3s background ease;font-size:12px!important;width:276px;margin:1.5em 0;display:block;padding:8px 0;text-align:center}
+.RESDashboardToggle,.RESshortcutside,.fancy-toggle-button .add{background:#80d04b}.RESDashboardToggle:hover,.fancy-toggle-button .add:hover,.res .RESshortcutside:hover{background:#A6DE81}.RESDashboardToggle:active,.fancy-toggle-button .add:active,.res .RESshortcutside:active{background:#599134
+}
+
+.side .titlebox .md h3 a{
+    background:url(%%discordbutton%%) no-repeat!important;
+    border-radius:3.5px;
+    border:none;
+    color:#200202;
+    height:40px;
+    font-size:18px!important;
+    margin-bottom: -10px;
+}
+.side .titlebox .md h4 a{
+    border-radius:3.5px;
+    border:none;
+    color:#fff;
+}
+
+.titlebox .bottom{display:none}.flairselector .customizer,.sidecontentbox .collapse-button{display:inline-block;vertical-align:middle}.sidecontentbox .collapse-button{width:12px;height:12px;line-height:10px;text-align:center;font-size:10px;margin:1px 8px;background-color:transparent;color:#4169e1;border-radius:2px;border:1px solid #4169e1}.sidecontentbox .collapse-button:hover{background-color:transparent;color:#009884;vertical-align:middle;border-radius:2px;border:1px solid #27408b}.side .sidecontentbox .content{border:none;padding:8px 0}.gadget .midcol{width:38px}.content{margin:96px 16px 0;padding:0}.entry .buttons li a,.entry .buttons li+li{font-weight:400}.flairselector.drop-choices.active{border-radius:8px!important;padding:20px!important}.flairselector .flairselection{margin-bottom:17px}.side .flairselector{position:fixed;top:150px!important;left:50%!important;margin-left:-220px;text-align:center;vertical-align:middle;border:none;border-radius:2px;box-shadow:0 0 16px rgba(0,0,0,.64)}.flairselector h2{margin-bottom:4px;color:#555!important;text-transform:uppercase!important;font-weight:700;font-size:12px!important}.bottommenu,.error,.flairselector form button,.footer .flat-vert .title,.footer .flat-vert li a,form#image-upload.image-upload{text-transform:uppercase;font-weight:700}.flairselector form button{font-size:10px}.comments-page .sitetable{z-index:3}.side .flairselector:before{display:block;position:center;text-align:center;vertical-align:middle;top:0;left:0;z-index:-2;overflow:hidden;height:100%;background-color:rgba(255,255,255,.75);content:"";cursor:default;transition:all .25s ease;pointer-events:none}.flairselector.drop-choices.active{visibility:visible!important;background-color:#fff;border:1px solid #d8d8d8}.flairselector h2{padding:5px;background-color:#fff;border-bottom:1px solid #e5e5e5;text-align:center;vertical-align:middle}.flairoptionpane{text-align:left}.flairoptionpane ul{visibility:visible!important}.flairoptionpane ul a.title{font-size:100%!important}.flairselector li{padding:3px 0;width:182px}.flairselector li:hover{background-color:#efefef}.flairselector form{border-top:1px solid #e5e5e5}.flairsample-left{text-align:center!important}.flairselector ul{overflow:visible}.flairselector li.selected{background-color:#e5ebf8;border:none}.login-form-side{border:none;padding:16px;margin-top:-10px}.login-form-side input[type=text],.login-form-side input[type=password]{font-size:11px;box-sizing:border-box;border:1px solid #999;width:258px}.login-form-side #remember-me *{vertical-align:middle}.login-form-side .submit{float:right;margin-top:5px;margin-right:5px}.thumbnail{border-radius:5px;margin-right:15px!important;position:relative;top:33px;transform:translateY(-50%);-webkit-transform:translateY(-50%)}body:not(.comments-page) .thumbnail{margin:10px 5px 0 0!important}.thumbnail.default,.thumbnail.nsfw,.thumbnail.self,body .stickied .thumbnail.self{background-repeat:no-repeat!important;padding:10px 0;border-radius:51px}.stickied a.title:link,.stickied a.title:visited,body:not(.comments-page) .stickied .entry .buttons li a,body:not(.comments-page) .stickied .entry .buttons li+li,body:not(.comments-page) .stickied .link .tagline,body:not(.comments-page) .stickied .tagline{color:#2B8B27!important}.over18 a.title:link,.over18 a.title:visited,body:not(.comments-page) .over18 .entry .buttons li a,body:not(.comments-page) .over18 .entry .buttons li+li,body:not(.comments-page) .over18 .link .tagline,body:not(.comments-page) .over18 .tagline{color:#D10023!important}.res #RESShortcutsEditContainer,.res #sr-more-link{background:0 0}#sr-more-link{position:absolute;top:-3px}#RESShortcutsAdd,#RESShortcutsLeft,#RESShortcutsRight,#RESShortcutsSort,#RESShortcutsTrash{height:25px;line-height:25px!important;margin-right:4px;background:0 0!important;color:#fff!important}.link .flat-list{display:block;padding:1px 0;margin-top:3px}
+li.searchfacet{width:20em}.error{font-size:12px}.pretty-form{font-size:larger;margin-left:25px}#preview-table>table{border-width:.2em;border-style:dashed;border-color:#D3D3D3;padding:5px;margin:5px 5px 5px 25px;width:900px}form#image-upload.image-upload{margin-left:25px;padding:9px;line-height:24px;font-size:10px;margin-bottom:20px;color:#666}.debuginfo,.footer-parent{background-color:#222}.footer-parent{font-size:14px;padding-top:20px;padding-bottom:20px;margin-top:300px}.footer .col{margin:10px 0 30px}.footer{border:0 solid}.bottommenu,.col{border:none!important}.footer .flat-vert li a{font-size:11px;color:#999!important}.footer .flat-vert li a:hover{text-decoration:none!important;color:#fff!important}.footer .flat-vert .title{font-size:16px;transition:color .25s ease,background-color .25s ease;color:#fff}.bottommenu{font-size:10px;color:#FFF!important}.bottommenu a{text-decoration:none;color:#999}#mail.havemail:before{position:fixed;bottom:24px;z-index:100;padding:45px 0 10px;background-color:rgba(0,0,0,.85);border-radius:6px;box-shadow:0 1px 5px rgba(0,0,0,.5);color:#fff;width:210px;height:15px;left:0;right:0;content:"YOU HAVE NEW MESSAGES";text-indent:30px;font-size:11px;line-height:1;-webkit-transform:translateY(112px);transform:translateY(112px);transition:background-color .25s ease,box-shadow .25s ease;background-image:url(%%havemail%%);background-position:85px 8px;margin:0 auto;background-size:32px;font-weight:700;background-repeat:no-repeat;animation-name:toast;animation-duration:8s;animation-iteration-count:1;animation-timing-function:ease;-webkit-animation-name:toast;-webkit-animation-duration:8s;-webkit-animation-iteration-count:1;-webkit-animation-timing-function:ease}div .thing .tagline .author.admin,div .thing .tagline .author.admin:before,div .thing .tagline .author.moderator,div .thing .tagline .author.moderator:before,div .thing .tagline .author.submitter,div .thing .tagline .author.submitter:before{font-weight:Bold;color:#FFF;display:inline-block;font-size:10px;line-height:20px}#mail.havemail:hover:before{-webkit-animation-play-state:paused;-moz-animation-play-state:paused;-o-animation-play-state:paused;animation-play-state:paused}@-webkit-keyframes toast{0%,100%,20%{transform:translateY(76px);-webkit-transform:translateY(76px);opacity:0}25%{transform:translateY(-8px);-webkit-transform:translateY(-8px);opacity:.8}27%,92%{transform:translateY(00px);-webkit-transform:translateY(00px);opacity:.8}97%{transform:translateY(16px);-webkit-transform:translateY(16px);opacity:.8}}@-o-keyframes toast{0%,100%,20%{transform:translateY(76px);-webkit-transform:translateY(76px);opacity:0}25%{transform:translateY(-8px);-webkit-transform:translateY(-8px);opacity:.8}27%,92%{transform:translateY(00px);-webkit-transform:translateY(00px);opacity:.8}97%{transform:translateY(16px);-webkit-transform:translateY(16px);opacity:.8}}@-moz-keyframes toast{0%,100%,20%{transform:translateY(76px);-webkit-transform:translateY(76px);opacity:0}25%{transform:translateY(-8px);-webkit-transform:translateY(-8px);opacity:.8}27%,92%{transform:translateY(00px);-webkit-transform:translateY(00px);opacity:.8}97%{transform:translateY(16px);-webkit-transform:translateY(16px);opacity:.8}}@keyframes toast{0%,100%,20%{transform:translateY(76px);-webkit-transform:translateY(76px);opacity:0}25%{transform:translateY(-8px);-webkit-transform:translateY(-8px);opacity:.8}27%,92%{transform:translateY(00px);-webkit-transform:translateY(00px);opacity:.8}97%{transform:translateY(16px);-webkit-transform:translateY(16px);opacity:.8}}
+div .thing .tagline .author.submitter:before{background:#4169e1;padding:0 7px 0 10px;border-radius:20px 0 0 20px;font-size:10px;content:"OP ";margin-right:7px}
+div .thing .tagline .author.submitter{background:#27408b!important;padding:0 10px 0 0;border-radius:20px;transition:.3s}div .thing .tagline .author.submitter:hover{background:#4169e1!important;text-decoration:none}div.thing .tagline .author.admin:before,div.thing .tagline .author.moderator:before{padding:0 7px 0 10px;border-radius:20px 0 0 20px;font-size:10px;margin-right:7px} div .thing .tagline .author.admin, div .thing .tagline .author.moderator{padding:0 10px 0 0;border-radius:20px;transition:.3s}div.thing .tagline .author.moderator:before{background:#282!important;content:"Mod "} div .thing .tagline .author.moderator{background:#1A4B17!important} div .thing .tagline .author.moderator:hover{background:#282!important;text-decoration:none}.tagline .moderator:after{content:"oderator - speaking officially."}div.thing .tagline .author.admin:before{background-color:#fe506e!important;content:"Admin "} div .thing .tagline .author.admin{background:#c41959!important} div .thing .tagline .author.admin:hover{background:#fe506e!important;text-decoration:none}.tagline .admin:after{content:"Admin - speaking officially"}a.author.admin:after,a.author.admin:before,a.author.moderator:after{content:""}.RESDashboardToggle.remove,.RESSubscriptionButton,.RESshortcutside.remove,.commentarea .comment a.expand:hover,.fancy-toggle-button .remove,.panestack-title a.title-button,.panestack-title a.title-button.gold,.side .titlebox .md h4 a,.sidecontentbox a.helplink,button{background:#4169e1}#progressIndicator a#NERStaticLink,.comment .flat-list li a:hover,.comment .flat-list li a[onclick*=reply],.commentNavSortType:hover,.commentarea .menuarea .toggle a:hover,.commentarea span.score,.deepthread a,.deepthread::after,.entry .buttons .may-blank,.error,.linefield .title,.link .domain a:hover,.link .entry .buttons li a:hover,.loadFlat:hover,.submit-page .roundfield a,.thing .title{color:#4169e1}#img-name:focus,.RES-keyNav-activeElement,.RES-keyNav-activeElement .md-container,.flairlist .flair-jump input[type=text]:focus,.roundfield input[type=url]:focus,.roundfield input[type=text]:focus,.roundfield input[type=url]:focus,.roundfield textarea:focus,.usertext-edit textarea:focus{border-color:#4169e1}.RESDashboardToggle.remove:hover,.comments-page .RESSubscriptionButton:hover,.fancy-toggle-button .remove:hover,.panestack-title a.title-button.gold:hover,.panestack-title a.title-button:hover,.side .titlebox .md h4 a:hover,.sidecontentbox a.helplink:hover,.res .side .RESshortcutside.remove:hover,button:hover{background:#6687e7}.RESDashboardToggle.remove:active,.RESshortcutside.remove:active,.comments-page .RESSubscriptionButton:active,.fancy-toggle-button .remove:active,.morelink,.panestack-title a.title-button.gold:active,.panestack-title a.title-button:active,.side .titlebox .md h3 a,.side .titlebox .md h4 a:active,.sidecontentbox a.helplink:active,.tabmenu,.wiki-page-content .md table thead tr th,button:active .thing .md table thead tr th{background:#444}.morelink:hover,.side .titlebox .md h3 a:hover{background:#666}.morelink:active,.side .titlebox .md h3 a:active{background:#222}
+/*Block Quote Syling*/
+#siteTable .thing .md blockquote,#siteTable .thing .md ol,#siteTable .thing .md table,#siteTable .thing .md ul,.commentarea .md blockquote,.commentarea .md ul,.commentarea .thing .md ol,.commentarea .thing .md table,.wiki-page-content .md blockquote{font-family:Arial,Helvetica,sans-serif;margin:20px 10px 10px}#siteTable .thing .md blockquote,.commentarea .md blockquote,.wiki-page-content .md blockquote{padding:10px;border-left:solid 2px #666;background-color:#f2f2f2;color:#2f2f2f;line-height:20px;font-size:14px}
+/*Ordered/Unordered List Styling*/
+#siteTable .thing .md ol,#siteTable .thing .md ul,.commentarea .md ul,.commentarea .thing .md ol{border-right:solid 1px #eaeaea;border-left:solid 1px #eaeaea;border-top:solid 1px #eaeaea;line-height:20px;font-size:14px;padding:0}#siteTable .thing .md ol li,#siteTable .thing .md ul li,.commentarea .md ul li,.commentarea .thing .md ol li{border-bottom:solid 1px #eaeaea;background-color:#f8f8f8;padding:5px}#siteTable .thing .md ol li:nth-child(odd),#siteTable .thing .md ul li:nth-child(odd),.commentarea .md ul:nth-child(odd),.commentarea .thing .md ol li:nth-child(odd){background-color:#f2f2f2}#siteTable .thing .md ul,.commentarea .md ul{list-style:none}#siteTable .thing .md ol,.commentarea .thing .md ol{list-style-position:inside}
+/*Comment/Post Table Styling*/
+#siteTable .thing .md table thead tr th,.commentarea .thing .md table thead tr th{font-weight:400;padding:10px 20px;font-size:14px;color:gold !important; background: black;}#siteTable .thing .md table tbody tr,.commentarea .thing .md table thead tr th{border:solid 1px #eaeaea}#siteTable .thing .md table tbody tr td,.commentarea .thing .md table tbody tr td{padding:10px 20px;}
+.res #RESShortcutsViewport{margin-right:70px}html[lang=dm] .linkinfo .shortlink input{background:#444}html[lang=dm] #siteTable .thing .md blockquote,html[lang=dm] .commentarea .md blockquote,html[lang=dm] .wiki-page-content .md blockquote{padding:10px;border-left:2px solid #888;background-color:#2f2f2f;color:#fff;line-height:20px;font-size:14px}html[lang=dm] 
+
+
+
+html[lang=dm] #siteTable .thing .md ol li:nth-child(odd),html[lang=dm] #siteTable .thing .md ul li:nth-child(odd),html[lang=dm] .commentarea .md ul li:nth-child(odd),html[lang=dm] .commentarea .thing .md ol li:nth-child(odd),html[lang=dm] .wiki-page-content .md ol li:nth-child(odd){background-color:#333}html[lang=dm] #siteTable .thing .md ol li,html[lang=dm] #siteTable .thing .md ul li,html[lang=dm] .commentarea .md ul li,html[lang=dm] .commentarea .thing .md ol li,html[lang=dm] .wiki-page-content .md ol li{border-bottom:solid 1px #555;background-color:#222;padding:5px}html[lang=dm] #siteTable .thing .md ol,html[lang=dm] #siteTable .thing .md ul,html[lang=dm] .commentarea .md ul,html[lang=dm] .commentarea .thing .md ol,html[lang=dm] .wiki-page-content .md ol{border-right:solid 1px #555;border-left:solid 1px #555;border-top:solid 1px #555;line-height:20px;font-size:14px}html[lang=dm] .content .entry .buttons li.reported-stamp,html[lang=dm] .content .stickied .entry .buttons li.reported-stamp{background:#222!important;color:#d1d1d1!important}html[lang=dm] .pretty-button.positive{color:#7DDC1F!important}html[lang=dm] .pretty-button.neutral{color:#ccc}html[lang=dm] .pretty-button.negative{color:#FE728B!important}html[lang=dm] .nsfw-stamp{background:#FE728B}html[lang=dm] .combined-search-page .search-result .search-comments,html[lang=dm] .combined-search-page .search-result .search-result-body,html[lang=dm] .combined-search-page .search-result .search-result-footer .search-link,html[lang=dm] .combined-search-page .search-result .search-result-header .search-title,html[lang=dm] .combined-search-page .search-result .search-result-meta,html[lang=dm] .combined-search-page .search-result .search-score,html[lang=dm] .combined-search-page .search-result-group .search-header-label,html[lang=dm] .combined-search-page .search-result-group .search-result-group-header{color:#fff}html[lang=dm] .combined-search-page .search-result .search-expando.collapsed::before{background:linear-gradient(to bottom,rgba(255,255,255,0) 0,#444 100%)}
+html[lang=dm] .combined-search-page .search-result .search-expando-button{color:#A4D11B}html[lang=dm] .combined-search-page .search-result{border-bottom:1px solid #666}html[lang=dm] .combined-search-page .search-result-group .search-result-group-header{background:#222;border-bottom:1px solid #666;border-top:1px solid #666}html[lang=dm] .stickied a.title:link,html[lang=dm] body:not(.comments-page) .stickied .entry .buttons li a,html[lang=dm] body:not(.comments-page) .stickied .entry .buttons li+li,html[lang=dm] body:not(.comments-page) .stickied .link .tagline,html[lang=dm] body:not(.comments-page) .stickied .md p,html[lang=dm] body:not(.comments-page) .stickied .tagline,html[lang=dm] body:not(.comments-page) .stickied a.title:visited{color:#7ddc1f!important}html[lang=dm] .over18 a.title:link,html[lang=dm] .over18 a.title:visited,html[lang=dm] body:not(.comments-page) .over18 .entry .buttons li a,html[lang=dm] body:not(.comments-page) .over18 .entry .buttons li+li,html[lang=dm] body:not(.comments-page) .over18 .link .tagline,html[lang=dm] body:not(.comments-page) .over18 .md p,html[lang=dm] body:not(.comments-page) .over18 .tagline{color:#fe728b!important}html[lang=dm] body{background:#222}html[lang=dm] div.content{background-color:#333;border:none}html[lang=dm] .entry .buttons li a{color:#ccc!important}html[lang=dm] .commentNavSortType,html[lang=dm] .commentarea .menuarea .toggle a,html[lang=dm] .dropdown.lightdrop .selected,html[lang=dm] .thing .title:visited{color:#ababab!important}html[lang=dm] .thing .title{color:#fff!important}html[lang=dm] input[name=uh]~a:after{display:none}html[lang=dm] a.comments::after{color:#ccc!important}html[lang=dm] .flair{border:none}html[lang=dm] .side{border:#4c4c4c;background:#333}html[lang=dm] .titlebox form.toggle,html[lang=dm] .toggle .option.active,html[lang=dm] div.leavemoderator{color:#ccc}html[lang=dm] .side .usertext-body{background-image:none;padding:0}html[lang=dm] .icon-menu a{color:#fff}html[lang=dm] .sidecontentbox .title h1{color:#fff;font-weight:700}html[lang=dm] .side .titlebox .md h3 a{background:#444}html[lang=dm] .side .titlebox .md h3 a:hover{background:#666}html[lang=dm] .side .titlebox .md h3 a:active{background:#222}html[lang=dm] .titlebox .users-online,html[lang=dm] .titlebox span.subscribers{color:#fff!important}html[lang=dm] #sr-header-area a,html[lang=dm] .sidecontentbox .collapse-button,html[lang=dm] h2{color:#fff}html[lang=dm] .sidecontentbox .collapse-button{border:1px solid #fff}html[lang=dm] .commentarea span.score,html[lang=dm] .side .md h4 a,html[lang=dm] body.res #sr-header-area .sr-bar a.RESShortcutsCurrentSub{color:#fff!important}html[lang=dm] .side .md h4{background:#323232}html[lang=dm] .md hr,html[lang=dm] body:not(.comments-page) div.content .entry{border-bottom:1px solid #666}html[lang=dm] .content .md a{color:#a4d11b!important}html[lang=dm] .titlebox a{color:#a4d11b}html[lang=dm] .link.promotedlink.promoted{background-color:#565656}html[lang=dm] .sidecontentbox .more a,html[lang=dm] span.score{color:#ccc!important}html[lang=dm] #progressIndicator,html[lang=dm] .commentarea .panestack-title .title,html[lang=dm] .commentingAs,html[lang=dm] .linkinfo .date,html[lang=dm] .linkinfo .shortlink,html[lang=dm] .md,html[lang=dm] div.score,html[lang=dm] span.totalvotes{color:#fff!important}html[lang=dm] body.comments-page .link{background:#323232}html[lang=dm] .commentarea>.usertext{background-color:#292929}html[lang=dm] .commentarea .child .thing.comment,html[lang=dm] .commentarea .child .thing.comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,html[lang=dm] .commentarea .thing{border:1px solid #333!important}html[lang=dm] .commentarea .child .thing.comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment{background:#222!important}html[lang=dm] .commentarea .child .thing.comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment .comment,html[lang=dm] .commentarea .child .thing.comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,html[lang=dm] .commentarea .thing{background:#292929!important}html[lang=dm] button{background-color:#999;color:#000}html[lang=dm] #RESShortcutsAdd,html[lang=dm] #RESShortcutsLeft,html[lang=dm] #RESShortcutsRight,html[lang=dm] #RESShortcutsSort,html[lang=dm] #RESShortcutsTrash,html[lang=dm] .tagline a{color:#fff}html[lang=dm] .shortlink .input{background-color:#222;color:#fff;border:1px solid #666!important}html[lang=dm] #preview-table>table>tbody>tr>th,html[lang=dm] #previoussearch label,html[lang=dm] #progressIndicator a#NERStaticLink,html[lang=dm] .comment .flat-list li a:hover,html[lang=dm] .comment .flat-list li a[onclick*=reply],html[lang=dm] .commentNavSortType:hover,html[lang=dm] .commentarea .menuarea .toggle a:hover,html[lang=dm] .deepthread a,html[lang=dm] .deepthread::after,html[lang=dm] .dropdown.srdrop span.selected.title,html[lang=dm] .entry .buttons .may-blank,html[lang=dm] .error,html[lang=dm] .formtabs-content .infobar,html[lang=dm] .generic-table,html[lang=dm] .link .domain a:hover,html[lang=dm] .link .entry .buttons li a:hover,html[lang=dm] .link .tagline,html[lang=dm] .loadFlat:hover,html[lang=dm] .md del,html[lang=dm] .md pre code,html[lang=dm] .menuarea,html[lang=dm] .pretty-form,html[lang=dm] .roundfield,html[lang=dm] .search-page .searchfacets,html[lang=dm] .searchfacet a,html[lang=dm] .side .md ol,html[lang=dm] .side .md p,html[lang=dm] .side .titlebox .md h1,html[lang=dm] .submit-page .title,html[lang=dm] .titlebox h1 a,html[lang=dm] .wiki-page .pageactions .wikiaction-current,html[lang=dm] .wiki-page .wiki-page-content .wiki.md,html[lang=dm] .wiki-page .wiki-page-content .wiki.md h2,html[lang=dm] .wiki-page .wikititle,html[lang=dm] .wiki-page-content .md h1,html[lang=dm] form#image-upload.image-upload{color:#fff!important}html[lang=dm] .search-page .searchfacets{background:#555}html[lang=dm] .formtabs-content .infobar,html[lang=dm] .roundfield{background-color:#333}html[lang=dm] .md code{background-color:#222;border:1px solid #666!important}html[lang=dm] .md pre{padding:0;background-color:transparent!important;border:none}html[lang=dm] .wiki-page div.content{background-color:transparent;border:none}html[lang=dm] .livePreview .md p{color:#000}html[lang=dm] .wiki-page .infobar{background:0 0;border:none}html[lang=dm] .content.submit .info-notice,html[lang=dm] .wiki-page .pageactions,html[lang=dm] .wiki-page .wiki-page-content,html[lang=dm] .wiki-page .wikititle{background-color:#444!important}html[lang=dm] body:not(.search-page) #search input[type=text]{background:#222!important;border:1px solid #444;color:#fff}html[lang=dm] .submit-page .content a{color:#999!important}html[lang=dm] .md table,html[lang=dm] .md ul{color:#fff!important}html[lang=dm] .gold-accent.comment-visits-box,html[lang=dm] .side .titlebox{color:#fff}html[lang=dm] ::-moz-selection{background:#666;color:#fff}html[lang=dm] .linkinfo{background-color:#303030}html[lang=dm] .debuginfo,html[lang=dm] .footer-parent{background:#111}html[lang=dm] ul#image-preview-list li{background:#333;border:none;color:#fff}html[lang=dm] .flairselector .tagline a,html[lang=dm] .flairselector h2{color:#000!important}html[lang=dm] .wiki-page .wiki-page-content .md.wiki h4{color:#fff!important}html[lang=dm] .comments-page .content .infobar{background:#444;color:#fff}html[lang=dm] .commentarea textarea:not(:focus):not(:hover){color:transparent;background-color:#444!important;text-shadow:0 0 12px #000}html[lang=dm] .commentarea textarea:hover,html[lang=dm] .roundfield input[type=url]:hover,html[lang=dm] .roundfield input[type=text]:hover,html[lang=dm] .roundfield textarea:hover{border:1px solid #9f9f9f}html[lang=dm] .roundfield input[type=url],html[lang=dm] .roundfield input[type=text],html[lang=dm] textarea{background-color:#222!important;color:#fff!important;transition:.3s;border:1px solid #666}html[lang=dm] .roundfield input[type=url]:focus,html[lang=dm] .roundfield input[type=text]:focus,html[lang=dm] .roundfield textarea:focus,html[lang=dm] .usertext-edit textarea:focus{border:1px solid #666;transition:.1s ease;border-bottom:3px solid #999!important}html[lang=dm] .toc ul{background:0 0}.deepthread::after,html[lang=dm] .deepthread a{color:#fff}html[lang=dm] .commentarea .comment a.expand:hover{background:#999;color:#333}
+html[lang=dm] .markdownEditor .edit-btn:not(.btn-macro){background-color:#ccc!important;border:none!important;border-radius:4px!important}html[lang=dm] .expando-button,html[lang=dm] .expando-button.expanded,html[lang=dm] .expando-button.expanded:hover,html[lang=dm] .expando-button:hover{border-radius:20px!important;background-color:#999!important}html[lang=dm] #REScommentSubToggle{background:#ccc!important;color:#000!important}html[lang=dm] .tabmenu{background:#333}html[lang=dm] .side .md h2+ul{background:#222}html[lang=dm] .side .sidecontentbox a{color:#ccc}html[lang=dm] .RES-keyNav-activeElement,html[lang=dm] .RES-keyNav-activeElement .md-container{background-color:#444!important;border-color:#aaa}
+
+
+
+/*ADD SNIPPETS BELOW THIS LINE
+============================================================================*/
+
+/*BANNER IMAGE*/
+
+#header { background: url(%%banner%%) top center;} 
+
+
+/**** BACKGROUND IMAGE ****/
+
+body { background: url(%%bg1%%) fixed repeat right top; }
+
+/******************** TITLES ***************/
+
+/***********MODERATOR TITLES ***********/
+
+.author[href$="Valphyr"] { color: white !important; background-color: #000; border-radius: 5px; padding: 2px 3px; }
+a.author[href$='reddit.com/user/Valphyr']:after { content: "『Founder』"; }
+.author[href$="CapnMZ"] { color: white !important; background-color: #FF8C00; border-radius: 5px; padding: 2px 3px; }
+a.author[href$='reddit.com/user/CapnMZ']:after { content: "『S.R.D.I President』"; }
+.author[href$="mugetsu-15"] { color: white !important; background-color: #3192c1; border-radius: 5px; padding: 2px 3px;  }
+a.author[href$='reddit.com/user/mugetsu-15']:after { content: "『Expendable Waifu』"; }
+.author[href$="forchuse"] { color: white !important; background-color: #327630; border-radius: 5px; padding: 2px 3px;  }
+a.author[href$='reddit.com/user/forchuse']:after { content: "『Resident Ukitake』"; }
+.author[href$="Deckage"] { color: white !important; background-color: #be0000; border-radius: 5px; padding: 2px 3px;  }
+a.author[href$='reddit.com/user/Deckage']:after { content: "『Vulgar Display of Reiatsu』";}
+.author[href$="Caedas83"] { color: #ffd966 !important; background-color: #005670; border-radius: 5px; padding: 2px 3px;  }
+a.author[href$='reddit.com/user/Caedas83']:after { content: "『You think you want to play this game?』"; }
+.author[href$="KuroYoite"] {color: white !important; background-color: #a4a4a4; border-radius: 5px; padding: 2px 3px;}
+a.author[href$='reddit.com/user/KuroYoite']:after {content: "『Bye bye from this totally not a Stalker!』";}
+.author[href$="Riddler208"] {color: black !important; background-color: #fffc00; border-radius: 5px; padding: 2px 3px;}
+a.author[href$='reddit.com/user/Riddler208']:after {content: "『Arithmetic Anomaly』";}
+.author[href$="GoatHD"] {color: white !important; background-color: #942700; border-radius: 5px; padding: 2px 3px;}
+a.author[href$='reddit.com/user/GoatHD']:after {content: "『Armed and Ready』";}
+.author[href$="Towaum"]{color: white !important; background-color: #A1C935; border-radius: 5px; padding: 2px 3px;}
+a.author[href$='reddit.com/user/Towaum']:after { content: "『Slapped by RNG』"; }
+.author[href$="VanitasReigns"]{color: white !important; background-color: #FFD700; border-radius: 5px; padding: 2px 3px;}
+a.author[href$='reddit.com/user/VanitasReigns']:after { content: "『Cursed Byakuya』"; }
+.author[href$="Schiffy94"]{color: white !important; background-color: #1C3855; border-radius: 5px; padding: 2px 3px;}
+a.author[href$='reddit.com/user/Schiffy94']:after { content: "『''One finger is all it takes''』"; }
+.author[href$="DimeTheScumbag"]{color: white !important; background-color: #672dae; border-radius: 5px; padding: 2px 3px;}
+a.author[href$='reddit.com/user/DimeTheScumbag']:after { content: "『Be right there~』"; }
+.author[href$="Zexica"]{color: white !important; background-color: #A1C935; border-radius: 5px; padding: 2px 3px;}
+a.author[href$='reddit.com/user/Zexica']:after { content: "『Leitor de correio :hahaa:』"; }
+.author[href$="redditrandomacc"]{color: white !important; background-color: #C40606; border-radius: 5px; padding: 2px 3px;}
+a.author[href$='reddit.com/user/redditrandomacc']:after { content: "『Just a humble servant of Renjisus』"; }
+.author[href$="heliokun"]{color: white !important; background-color: #7b1010; border-radius: 5px; padding: 2px 3px;}
+a.author[href$='reddit.com/user/heliokun']:after { content: "『Head captain of the lock-your-character department』"; }
+.author[href$="RadwanX"]{color: white !important; background-color: #67c7a7; border-radius: 5px; padding: 2px 3px;}
+a.author[href$='reddit.com/user/RadwanX']:after {content: "『Doing what I can in the here and now』"; }
+
+a.author[href$="user/AutoModerator"]:after {content:" Kon"; }
+
+
+/******** UNIQUE USER TITLES ********/
+
+a.author[href$='reddit.com/user/2manyarlongs']:after { content: "『Former Head Captain』"; }
+a.author[href$='reddit.com/user/Heroofslayers']:after { content: "『Former Ichigo』"; }
+a.author[href$='reddit.com/user/billycoolj']:after { content: "『Former Kyoraku』"; }
+a.author[href$='reddit.com/user/xAethereal']:after { content: "『Sanpo Kenjū』"; }
+a.author[href$='reddit.com/user/AnimatorBlake-LeBBS']:after { content: "『''Grind, ORBS!''』"; }
+a.author[href$='reddit.com/user/g3rryh']:after { content: "『PSAta dispenser』"; }
+
+/****** CONTEST WINNER TITLES ******/
+
+.author[href$="SlateCap"] { color:#000000 !important; background-color: #ffffff; border-radius: 5px; padding: 2px 3px; }
+a.author[href$='reddit.com/user/SlateCap']:after { content: "     『That's a bad joke indeed.』 "; }
+.author[href$="Jiscold"] { color:#000000 !important; background-color: #ffffff; border-radius: 5px; padding: 2px 3px; }
+a.author[href$='reddit.com/user/Jiscold']:after { content: "      『Espada #2』 "; }
+.author[href$="z-h-x"] { color:#000000 !important; background-color: #ffffff; border-radius: 5px; padding: 2px 3px; }
+a.author[href$='reddit.com/user/z-h-x']:after { content: "『#OrbsOutForHarambe』"; }
+a.author[href$='reddit.com/user/Fruit_Punch_Zura']:after { content: "『Lurking Artist』"; }
+/*SUBMIT POST HOVER MESSAGE*/
+
+.morelink::after {
+    content: "FLAIR YOUR POSTS!";
+    padding: 10px;
+    position: absolute;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #FFF;
+    z-index: 100;
+    transition: 300ms;
+    font-weight: bold;
+    line-height: 1.4em;
+    border-radius: 4px;
+    pointer-events: none;
+    font-size: 12px;
+    width: 269px;
+    top:0px;
+    margin-right: 290px;
+    opacity: 0;
+    right: 0px;
+}
+.morelink:hover:after {
+    margin-right: 350px;
+    opacity: 100;
+}
+
+/* HIDE TAB MENU ITEMS */
+.listing-page .tabmenu li:nth-of-type(3), 
+.listing-page .tabmenu li:nth-of-type(4), 
+.listing-page .tabmenu li:nth-of-type(6) {
+display: none;
+visibility: hidden;
+}
+
+/*SUBSCRIBERS TEXT*/
+.titlebox .word {display: none}
+.titlebox .number:after {content: " Who's ire's rising from seeing gold";}
+.titlebox .users-online span.number:after {content: " Who don't even have orbs anyway";}
+
+
+/******REMOVING SUBREDDIT NAME from sidebar*****/
+
+.titlebox h1.redditname a {content: "";font-size: 0;}
+.titlebox h1.redditname a::before {font-size: 50px;content:"";}
+
+/* Change background color */
+
+body { background-color: #A2A5AE; }
+
+/****** THREAD/CONTENT BACKGROUND COLOUR ******/
+
+div.content {background: #fbfbfb;} /*CONTENT BACKGROUND*/
+
+/* USER FLAIR */
+
+.flair{line-height:40px;text-indent:45px;vertical-align:middle;min-width:40px;height:40px;padding:0;background-repeat:no-repeat!important;border:0;}
+.flair-0032{background: url(%%flair-batch1%%) 0 -0px;}.flair-0248{background: url(%%flair-batch1%%) 0 -600px;}.flair-0260{background: url(%%flair-batch1%%) 0 -640px;}.flair-0257{background: url(%%flair-batch1%%) 0 -680px;}.flair-0262{background: url(%%flair-batch1%%) 0 -720px;}.flair-0253{background: url(%%flair-batch1%%) 0 -760px;}.flair-0249{background: url(%%flair-batch1%%) 0 -800px;}.flair-0142{background: url(%%flair-batch1%%) 0 -880px;}.flair-0148{background: url(%%flair-batch1%%) 0 -920px;}.flair-0141{background: url(%%flair-batch1%%) 0 -960px;}.flair-0266{background: url(%%flair-batch1%%) 0 -1000px;}.flair-0317{background: url(%%flair-batch1%%) 0 -1040px;}.flair-0318{background: url(%%flair-batch1%%) 0 -1080px;}.flair-0319{background: url(%%flair-batch1%%) 0 -1120px;}.flair-0320{background: url(%%flair-batch1%%) 0 -1160px;}.flair-0321{background: url(%%flair-batch1%%) 0 -1200px;}.flair-0259{background: url(%%flair-batch1%%) 0 -1240px;}.flair-0244{background: url(%%flair-batch1%%) 0 -1360px;}.flair-0171{background: url(%%flair-batch1%%) 0 -1440px;}.flair-0335{background: url(%%flair-batch1%%) 0 -1480px;}.flair-0370{background: url(%%flair-batch1%%) 0 -1520px;}.flair-0371{background: url(%%flair-batch1%%) 0 -1560px;}.flair-0376{background: url(%%flair-batch1%%) 0 -1600px;}.flair-0372{background: url(%%flair-batch1%%) 0 -1640px;}.flair-0375{background: url(%%flair-batch1%%) 0 -1680px;}.flair-0336{background: url(%%flair-batch1%%) 0 -1720px;}.flair-0378{background: url(%%flair-batch1%%) 0 -1760px;}.flair-0380{background: url(%%flair-batch1%%) 0 -1800px;}.flair-0381{background: url(%%flair-batch1%%) 0 -1840px;}.flair-0343{background: url(%%flair-batch1%%) 0 -1880px;}.flair-0209{background: url(%%flair-batch1%%) 0 -1960px;}.flair-0184{background: url(%%flair-batch1%%) 0 -2000px;}.flair-0191{background: url(%%flair-batch1%%) 0 -2040px;}.flair-0195{background: url(%%flair-batch1%%) 0 -2080px;}.flair-0193{background: url(%%flair-batch1%%) 0 -2120px;}.flair-0337{background: url(%%flair-batch1%%) 0 -2160px;}.flair-0338{background: url(%%flair-batch1%%) 0 -2200px;}.flair-0364{background: url(%%flair-batch1%%) 0 -2240px;}.flair-0383{background: url(%%flair-batch1%%) 0 -2360px;}.flair-0384{background: url(%%flair-batch1%%) 0 -2400px;}.flair-0385{background: url(%%flair-batch1%%) 0 -2440px;}.flair-0386{background: url(%%flair-batch1%%) 0 -2480px;}.flair-0454{background: url(%%flair-batch1%%) 0 -2520px;}.flair-0423{background: url(%%flair-batch1%%) 0 -2560px;}.flair-0422{background: url(%%flair-batch1%%) 0 -2600px;}.flair-0390{background: url(%%flair-batch1%%) 0 -2640px;}.flair-0391{background: url(%%flair-batch1%%) 0 -2680px;}.flair-0392{background: url(%%flair-batch1%%) 0 -2720px;}.flair-0393{background: url(%%flair-batch1%%) 0 -2760px;}.flair-0394{background: url(%%flair-batch1%%) 0 -2800px;}.flair-0396{background: url(%%flair-batch1%%) 0 -2840px;}.flair-0427{background: url(%%flair-batch1%%) 0 -2880px;}.flair-0465{background: url(%%flair-batch1%%) 0 -3000px;}.flair-0466{background: url(%%flair-batch1%%) 0 -3040px;}.flair-0467{background: url(%%flair-batch1%%) 0 -3080px;}.flair-0481{background: url(%%flair-batch1%%) 0 -3120px;}.flair-0424{background: url(%%flair-batch1%%) 0 -3160px;}.flair-0482{background: url(%%flair-batch1%%) 0 -3200px;}.flair-0483{background: url(%%flair-batch1%%) 0 -3240px;}.flair-0485{background: url(%%flair-batch1%%) 0 -3280px;}.flair-0484{background: url(%%flair-batch1%%) 0 -3320px;}.flair-0511{background: url(%%flair-batch1%%) 0 -3480px;}.flair-0455{background: url(%%flair-batch1%%) 0 -3520px;}.flair-0456{background: url(%%flair-batch1%%) 0 -3560px;}.flair-0457{background: url(%%flair-batch1%%) 0 -3600px;}.flair-0459{background: url(%%flair-batch1%%) 0 -3640px;}.flair-0532{background: url(%%flair-batch1%%) 0 -3680px;}.flair-0530{background: url(%%flair-batch1%%) 0 -3840px;}.flair-0531{background: url(%%flair-batch1%%) 0 -3880px;}.flair-0517{background: url(%%flair-batch1%%) 0 -3920px;}.flair-0519{background: url(%%flair-batch1%%) 0 -3960px;}.flair-0520{background: url(%%flair-batch2%%) 0 -0px;}.flair-0521{background: url(%%flair-batch2%%) 0 -40px;}.flair-0543{background: url(%%flair-batch2%%) 0 -80px;}.flair-0544{background: url(%%flair-batch2%%) 0 -120px;}.flair-0545{background: url(%%flair-batch2%%) 0 -160px;}.flair-0528{background: url(%%flair-batch2%%) 0 -280px;}.flair-0529{background: url(%%flair-batch2%%) 0 -320px;}.flair-0563{background: url(%%flair-batch2%%) 0 -400px;}.flair-0564{background: url(%%flair-batch2%%) 0 -440px;}.flair-0565{background: url(%%flair-batch2%%) 0 -480px;}.flair-0567{background: url(%%flair-batch2%%) 0 -520px;}.flair-0518{background: url(%%flair-batch2%%) 0 -560px;}.flair-0580{background: url(%%flair-batch2%%) 0 -600px;}.flair-0581{background: url(%%flair-batch2%%) 0 -640px;}.flair-0582{background: url(%%flair-batch2%%) 0 -680px;}.flair-0585{background: url(%%flair-batch2%%) 0 -720px;}.flair-0619{background: url(%%flair-batch2%%) 0 -760px;}.flair-0621{background: url(%%flair-batch2%%) 0 -800px;}.flair-0622{background: url(%%flair-batch2%%) 0 -840px;}.flair-0630{background: url(%%flair-batch2%%) 0 -880px;}.flair-0597{background: url(%%flair-batch2%%) 0 -920px;}.flair-0598{background: url(%%flair-batch2%%) 0 -960px;}.flair-0599{background: url(%%flair-batch2%%) 0 -1000px;}.flair-0635{background: url(%%flair-batch2%%) 0 -1040px;}.flair-0665{background: url(%%flair-batch2%%) 0 -1080px;}.flair-0637{background: url(%%flair-batch2%%) 0 -1120px;}.flair-0639{background: url(%%flair-batch2%%) 0 -1160px;}.flair-0670{background: url(%%flair-batch2%%) 0 -1200px;}.flair-0671{background: url(%%flair-batch2%%) 0 -1240px;}.flair-0672{background: url(%%flair-batch2%%) 0 -1280px;}.flair-0673{background: url(%%flair-batch2%%) 0 -1320px;}.flair-0674{background: url(%%flair-batch2%%) 0 -1360px;}.flair-0669{background: url(%%flair-batch2%%) 0 -1400px;}.flair-0678{background: url(%%flair-batch2%%) 0 -1440px;}.flair-0680{background: url(%%flair-batch2%%) 0 -1480px;}.flair-0679{background: url(%%flair-batch2%%) 0 -1520px;}.flair-0681{background: url(%%flair-batch2%%) 0 -1560px;}.flair-0682{background: url(%%flair-batch2%%) 0 -1600px;}.flair-0722{background: url(%%flair-batch2%%) 0 -1640px;}.flair-0683{background: url(%%flair-batch2%%) 0 -1680px;}.flair-0694{background: url(%%flair-batch2%%) 0 -1720px;}.flair-0695{background: url(%%flair-batch2%%) 0 -1760px;}.flair-0720{background: url(%%flair-batch2%%) 0 -1840px;}.flair-0721{background: url(%%flair-batch2%%) 0 -1880px;}.flair-0691{background: url(%%flair-batch2%%) 0 -1920px;}.flair-0692{background: url(%%flair-batch2%%) 0 -1960px;}.flair-0724{background: url(%%flair-batch2%%) 0 -2000px;}.flair-0741{background: url(%%flair-batch2%%) 0 -2040px;}.flair-0742{background: url(%%flair-batch2%%) 0 -2080px;}.flair-0743{background: url(%%flair-batch2%%) 0 -2120px;}.flair-0748{background: url(%%flair-batch2%%) 0 -2160px;}.flair-0749{background: url(%%flair-batch2%%) 0 -2200px;}.flair-0750{background: url(%%flair-batch2%%) 0 -2240px;}.flair-0725{background: url(%%flair-batch2%%) 0 -2280px;}.flair-0100{background: url(%%flair-batch2%%) 0 -2320px;}.flair-0752{background: url(%%flair-batch2%%) 0 -2360px;}.flair-0754{background: url(%%flair-batch2%%) 0 -2400px;}.flair-0761{background: url(%%flair-batch2%%) 0 -2440px;}.flair-0762{background: url(%%flair-batch2%%) 0 -2480px;}.flair-0764{background: url(%%flair-batch2%%) 0 -2520px;}.flair-0767{background: url(%%flair-batch2%%) 0 -2560px;}.flair-0770{background: url(%%flair-batch2%%) 0 -2600px;}.flair-0772{background: url(%%flair-batch2%%) 0 -2640px;}.flair-0773{background: url(%%flair-batch2%%) 0 -2680px;}.flair-0774{background: url(%%flair-batch2%%) 0 -2720px;}.flair-0775{background: url(%%flair-batch2%%) 0 -2760px;}.flair-0776{background: url(%%flair-batch2%%) 0 -2800px;}.flair-0785{background: url(%%flair-batch2%%) 0 -2840px;}.flair-0757{background: url(%%flair-batch2%%) 0 -2960px;}.flair-0756{background: url(%%flair-batch2%%) 0 -3000px;}.flair-0755{background: url(%%flair-batch2%%) 0 -3040px;}.flair-0789{background: url(%%flair-batch2%%) 0 -3080px;}.flair-0790{background: url(%%flair-batch2%%) 0 -3120px;}.flair-0792{background: url(%%flair-batch2%%) 0 -3160px;}.flair-0794{background: url(%%flair-batch2%%) 0 -3200px;}.flair-0796{background: url(%%flair-batch2%%) 0 -3240px;}.flair-0797{background: url(%%flair-batch2%%) 0 -3280px;}.flair-0798{background: url(%%flair-batch2%%) 0 -3320px;}.flair-0799{background: url(%%flair-batch2%%) 0 -3360px;}.flair-0800{background: url(%%flair-batch2%%) 0 -3400px;}.flair-0802{background: url(%%flair-batch2%%) 0 -3440px;}.flair-0803{background: url(%%flair-batch2%%) 0 -3480px;}.flair-0808{background: url(%%flair-batch2%%) 0 -3520px;}.flair-0810{background: url(%%flair-batch2%%) 0 -3560px;}.flair-0812{background: url(%%flair-batch2%%) 0 -3600px;}.flair-0837{background: url(%%flair-batch2%%) 0 -3640px;}.flair-0838{background: url(%%flair-batch2%%) 0 -3680px;}.flair-0839{background: url(%%flair-batch2%%) 0 -3720px;}.flair-0842{background: url(%%flair-batch2%%) 0 -3760px;}.flair-0841{background: url(%%flair-batch2%%) 0 -3800px;}.flair-0843{background: url(%%flair-batch2%%) 0 -3840px;}.flair-0844{background: url(%%flair-batch2%%) 0 -3880px;}.flair-0806{background: url(%%flair-batch2%%) 0 -3920px;}.flair-0805{background: url(%%flair-batch2%%) 0 -3960px;}.flair-0807{background: url(%%flair-batch3%%) 0 -0px;}.flair-0858{background: url(%%flair-batch3%%) 0 -40px;}.flair-0857{background: url(%%flair-batch3%%) 0 -80px;}.flair-0856{background: url(%%flair-batch3%%) 0 -120px;}.flair-0865{background: url(%%flair-batch3%%) 0 -160px;}.flair-0859{background: url(%%flair-batch3%%) 0 -200px;}.flair-0860{background: url(%%flair-batch3%%) 0 -240px;}.flair-0861{background: url(%%flair-batch3%%) 0 -280px;}.flair-0879{background: url(%%flair-batch3%%) 0 -320px;}.flair-0880{background: url(%%flair-batch3%%) 0 -360px;}.flair-0881{background: url(%%flair-batch3%%) 0 -400px;}.flair-0835{background: url(%%flair-batch3%%) 0 -440px;}.flair-0887{background: url(%%flair-batch3%%) 0 -480px;}.flair-0888{background: url(%%flair-batch3%%) 0 -520px;}.flair-0889{background: url(%%flair-batch3%%) 0 -560px;}.flair-0862{background: url(%%flair-batch3%%) 0 -600px;}.flair-0863{background: url(%%flair-batch3%%) 0 -640px;}.flair-0864{background: url(%%flair-batch3%%) 0 -680px;}.flair-0893{background: url(%%flair-batch3%%) 0 -720px;}.flair-0894{background: url(%%flair-batch3%%) 0 -760px;}.flair-0895{background: url(%%flair-batch3%%) 0 -800px;}.flair-0896{background: url(%%flair-batch3%%) 0 -840px;}.flair-0897{background: url(%%flair-batch3%%) 0 -880px;}.flair-0898{background: url(%%flair-batch3%%) 0 -920px;}.flair-0252{background: url(%%flair-batch3%%) 0 -1920px;}.flair-0197{background: url(%%flair-batch3%%) 0 -2160px;}.flair-0198{background: url(%%flair-batch3%%) 0 -2200px;}.flair-0199{background: url(%%flair-batch3%%) 0 -2240px;}.flair-0270{background: url(%%flair-batch3%%) 0 -2280px;}.flair-0322{background: url(%%flair-batch3%%) 0 -2320px;}.flair-0323{background: url(%%flair-batch3%%) 0 -2360px;}.flair-0324{background: url(%%flair-batch3%%) 0 -2400px;}.flair-0202{background: url(%%flair-batch3%%) 0 -2440px;}.flair-0200{background: url(%%flair-batch3%%) 0 -2520px;}.flair-0201{background: url(%%flair-batch3%%) 0 -2560px;}.flair-0363{background: url(%%flair-batch3%%) 0 -2600px;}.flair-0373{background: url(%%flair-batch3%%) 0 -2640px;}.flair-0374{background: url(%%flair-batch3%%) 0 -2680px;}.flair-0379{background: url(%%flair-batch3%%) 0 -2720px;}.flair-0377{background: url(%%flair-batch3%%) 0 -2760px;}.flair-0271{background: url(%%flair-batch3%%) 0 -3040px;}.flair-0420{background: url(%%flair-batch3%%) 0 -3080px;}.flair-0387{background: url(%%flair-batch3%%) 0 -3120px;}.flair-0388{background: url(%%flair-batch3%%) 0 -3160px;}.flair-0464{background: url(%%flair-batch3%%) 0 -3200px;}.flair-0425{background: url(%%flair-batch3%%) 0 -3240px;}.flair-0426{background: url(%%flair-batch3%%) 0 -3280px;}.flair-0429{background: url(%%flair-batch3%%) 0 -3320px;}.flair-0430{background: url(%%flair-batch3%%) 0 -3360px;}.flair-0533{background: url(%%flair-batch3%%) 0 -3400px;}.flair-0546{background: url(%%flair-batch3%%) 0 -3440px;}.flair-0566{background: url(%%flair-batch3%%) 0 -3480px;}.flair-0588{background: url(%%flair-batch3%%) 0 -3520px;}.flair-0600{background: url(%%flair-batch3%%) 0 -3560px;}.flair-0624{background: url(%%flair-batch3%%) 0 -3600px;}.flair-0667{background: url(%%flair-batch3%%) 0 -3640px;}.flair-0684{background: url(%%flair-batch3%%) 0 -3720px;}.flair-0723{background: url(%%flair-batch3%%) 0 -3840px;}.flair-0765{background: url(%%flair-batch4%%) 0 -0px;}.flair-0815{background: url(%%flair-batch4%%) 0 -120px;}.flair-0840{background: url(%%flair-batch4%%) 0 -160px;}.flair-0247{background: url(%%flair-batch4%%) 0 -1280px;}.flair-0255{background: url(%%flair-batch4%%) 0 -1400px;}.flair-0557{background: url(%%flair-batch5%%) 0 -2240px;}.flair-0240{background: url(%%flair-batch5%%) 0 -2280px;}.flair-0817{background: url(%%flair-batch5%%) 0 -2320px;}.flair-0018{background: url(%%flair-batch4%%) 0 -3240px;}.flair-0428{background: url(%%flair-batch1%%) 0 -3400px;}.flair-0524{background: url(%%flair-batch2%%) 0 -200px;}
+
+/***** MOD FLAIRS *****/
+
+.flair-mods {background:url(%%ModFlairs%%) no-repeat -9999px; border-radius: 5px}
+.flair-arlong{width: 41px;height: 61px;background-position: 0 0;}
+.flair-xaetherial{width: 50px;height: 50px;background-position: 0 -61px;}
+.flair-kon{width: 50px;height: 50px;background-position: 0 -111px;}
+
+.flair-mods2 { text-indent: 45px; vertical-align: middle; width: 40px; height: 40px; background:url(%%ModFlairs2%%) no-repeat -9999px; border-radius: 5px}
+
+.flair-mugetsu{background-position: 0 0;}
+.flair-animatorblake{background-position: 0 -40px;}
+.flair-forchuse{background-position: 0 -80px;}
+.flair-deckage{background-position: 0 -640px;}
+.flair-caedas83{background-position: 0 -160px;}
+.flair-riddler{background-position: 0 -200px;}
+.flair-kuro{background-position: 0 -240px;}
+.flair-goat{background-position: 0 -280px;}
+.flair-mugetsu15{background-position: 0 -320px;}
+.flair-xmasdime{background-position: 0 -360px;}
+.flair-capnmz{background-position: 0 -400px;}
+.flair-towaum{background-position: 0 -440px;}
+.flair-vanitas{background-position: 0 -480px;}
+.flair-dime{background-position: 0 -520px;}
+.flair-schiffy{background-position: 0 -560px;}
+.flair-dime2{background-position: 0 -600px;}
+.flair-redditrandomacc{background-position: 0 -680px;}
+.flair-heliokun{background-position: 0 -720px;}
+.flair-radwanx2{background-position: 0 -760px;}
+
+/************** CONTEST WINNERS **************/
+
+
+.flair-winners1 { 
+padding:0px; 
+min-width: 40px; height: 40px; line-height: 40px; text-indent: 45px; vertical-align: middle;background: url(%%Winners1%%) no-repeat -9999px; 
+}
+.flair-waetherman{ background-position: 0 -120px;}
+
+
+.flair-winners2 { 
+padding:0px; 
+min-width: 40px; height: 40px; line-height: 40px; text-indent: 45px; vertical-align: middle;background: url(%%Winners2%%) no-repeat -9999px; 
+}
+.flair-xisas{ background-position: 0 0;}
+.flair-lokizi{ background-position: 0 -40px;}
+.flair-laween{ background-position: 0 -80px;}
+.flair-curry{ background-position: 0 -120px;}
+.flair-otae{ background-position: 0 -160px;}
+.flair-sapphire{ background-position: 0 -200px;}
+.flair-7days{ background-position: 0 -240px;}
+.flair-alice{background-position: 0 -280px;}
+.flair-ezreal{background-position: 0 -320px;}
+.flair-Kochyy{background-position: 0 -360px;}
+.flair-lnfernalNasus{background-position: 0 -400px;}
+
+
+/***** FIXED SIDEBAR MODS ERROR *****/
+
+.side .content li {
+white-space:nowrap;
+}
+
+/***** ANNOUNCEMENT BOX ******/
+
+.titlebox .usertext-body .md ol {
+width: 350px;
+height: 160px;
+list-style:none;
+position:absolute;
+top:280px;
+left:5%;
+ background: url(%%templateweeklythread2%%) no-repeat !important;
+color:#000;
+border-radius:10px;
+font-size:13px;
+white-space:nowrap;
+z-index:3!important;
+margin:0;
+padding:20px 19px;
+}
+
+.titlebox .usertext-body .md ol:nth-of-type(2) {
+    left: 40%;
+}
+.titlebox .usertext-body .md ol li {
+    display:inline;
+    font-size:0.9em;
+}
+.titlebox .usertext-body .md ol li a {
+    color:rgb(255,255,50);
+}
+.titlebox .usertext-body .md ol + ul {
+position:absolute;
+top:270px;
+left:15px;
+list-style:none;
+background:transparent;
+transition:all .25s ease;
+margin:0;
+padding:0;
+}
+.titlebox .usertext-body .md ol + ul li {
+width:140px;
+display:inline-block;
+position:relative;
+text-align:center;
+line-height:21px;
+background:#0768d7;
+box-shadow:0 3px 8px rgba(0,0,0,0.24);
+transition:all .25s ease;
+padding:2px 8px;
+}
+.titlebox .usertext-body .md ol + ul li ul li {
+padding:0;
+}
+.titlebox .usertext-body .md ol + ul ul li a {
+display:block;
+color:#FFF;
+background:#0768d7;
+text-decoration:none;
+padding:2px 8px;
+}
+.titlebox .usertext-body .md ol + ul li p {
+color:#FFF!important;
+}
+.titlebox .usertext-body .md ol + ul ul li a:hover {
+color:#FFF;
+background:#065cbe;
+}
+.titlebox .usertext-body .md ol + ul li ul {
+display:none;
+position:absolute;
+z-index:999;
+left:0;
+transition:all .25s ease;
+margin:0;
+padding:0!important;
+}
+.titlebox .usertext-body .md ol + ul li:hover ul {
+display:block;
+transition:all .25s ease;
+}
+.titlebox .usertext-body .md ol + ul li:hover {
+box-shadow:none;
+}
+
+
+/***** CUSTOM SUBMIT BUTTON *****/
+
+.submit .morelink {
+    background: url(%%Image%%) no-repeat !important;
+    height: 63px;
+}
+
+/***** ONLY ONE SUBMIT BUTTON *****/
+
+.sidebox.submit.submit-link .morelink {
+    width: 288px;
+}
+.sidebox.submit.submit-link .morelink a {
+    text-align: center;
+    line-height: 45px;
+    width: 270px;
+    padding-right: 5px !important;
+}
+.submit .morelink a:hover {
+transform:scale(.95);
+}
+.sidebox.submit.submit-text{
+    display:none;
+}
+
+
+/******* DROPDOWN *******/
+
+/*sticky menu bar*/
+/*moves links down to make space*/
+div.content {
+margin-top: 235px;
+}
+/*hack to enable positioning of child elements*/
+.titlebox form {
+position: static
+}
+/*turns top quote in sidebar into menu container*/
+.titlebox blockquote:first-child {
+border-left: none;
+position: absolute;
+z-index: 10;
+top: 205px;
+left: 10px
+}
+/*turns first paragraph into menu title*/
+.titlebox blockquote:first-child p:first-child {
+margin-top: 0px;
+padding: 5px;
+float: left;
+font-size: 12pt;
+background:#eff7ff;
+border: 1px solid #cee3f8;
+font-weight:bold;
+color:#555;
+cursor:default;
+}
+/*turns the lists into menus*/
+.titlebox blockquote ul {
+float: left;
+padding: 0px;
+margin:0px;
+border: 2px solid black;
+}
+/*hide and styles lists*/
+.titlebox blockquote ul li {
+display: none;
+padding:0px;
+text-align:center;
+color:#EFEFEF;
+font-family: "Helvetica";
+font-size: 11pt!important;
+}
+/*makes whole list item selectable*/
+.titlebox blockquote li a {
+display:block;
+color: white!important;
+border: 2px solid #47464e;
+border-top: 0;
+background-color:black!important;
+font-family: "Verdana";
+font-size: 9pt!important;
+}
+/*shows menu on hover*/
+.titlebox blockquote ul li:first-child, .titlebox blockquote ul:hover li {
+display: block
+
+}
+/*turns top list item into section header*/
+.titlebox blockquote li:first-child {
+font-size: 12pt;
+padding: 4px;
+cursor:default;
+}
+/*styling menu items*/
+.titlebox blockquote:first-child ul li:hover {
+
+}
+.titlebox blockquote li a:hover {
+color:dodgerblue!important;
+background: linear-gradient(#2b2b33,#37363f);
+box-shadow: inset 0 0 10px -1px #000;
+}
+/*custom size for menu sections*/
+.titlebox blockquote ul li:first-child{
+background-image:url(%%newmenus%%);
+width: 150px;
+height: 30px;
+padding: 0;
+line-height: 30px;
+}
+.titlebox blockquote ul:nth-child(2) li:first-child {
+    background-position: -150px 0;
+}
+.titlebox blockquote ul:nth-child(3) li:first-child {
+    background-position: -300px 0;
+}
+.titlebox blockquote ul:nth-child(4) li:first-child {
+    background-position: -450px 0;
+}
+.titlebox blockquote ul:nth-child(5) li:first-child {
+    background-position: -600px 0;
+}
+
+/*Wiki and Sidebar Table formatting*/
+#siteTable .thing .md table thead tr th,html[lang=dm] .wiki-page-content .md table thead tr th, .side .md table thead tr th{background:#333}html[lang=dm] #siteTable .thing .md table tbody tr,html[lang=dm] .commentarea .thing .md table tbody tr,html[lang=dm] .wiki-page-content .md table tbody thead tr td{border:1px solid #999}html[lang=dm] .md hr{color:#888} 
+.wiki-page-content .md table thead tr th, .side .md table thead tr th{color: gold!important;}
+.wiki-page-content .md table tbody tr:nth-child(even), #siteTable .thing .md table tbody tr:nth-child(even){background-color: #dedede;}
+
+/*sidebar color background for table*/
+.side .md table{border-radius:0 0 5px 5px;
+    background:#e7eeee;
+    border-top:0;
+    padding:10px 10px 10px 26px;
+    margin:0 0 20px;
+    margin-bottom:0;
+    font-size: 98%;
+    width: 100%;
+}
+.side .md table tbody tr:nth-child(even){background-color: #d4e0e0;}
+
+
+/****** THREAD FLAIRS ******/
+
+.linkflairlabel {
+font-weight: bold;
+width: 120px;
+height: 27px;
+background: url(%%LinkFlairs%%) no-repeat -9999px;
+line-height: 27px;
+padding: 0 10px 0 10px;
+border: 0;
+vertical-align: middle;
+text-align: center;
+text-indent: 22px;
+color: #FFFFFF;
+text-transform: none;
+text-shadow: 1px 1px 0 #000000;
+}
+
+.linkflair.linkflair-tfachieve>.linkflairlabel,.linkflair-tfachieve .linkflairlabel{background-position: 0 0;}
+.linkflair.linkflair-tfmilestone >.linkflairlabel,.linkflair-tfmilestone .linkflairlabel{background-position: 0 0;}
+.linkflair.linkflair-tfdiscuss >.linkflairlabel,.linkflair-tfdiscuss .linkflairlabel{background-position: 0 -27px;}
+.linkflair.linkflair-tfanalysis >.linkflairlabel,.linkflair-tfanalysis .linkflairlabel{background-position: 0 -27px;}
+.linkflair.linkflair-tfguide >.linkflairlabel,.linkflair-tfguide .linkflairlabel{background-position: 0 -54px;}
+.linkflair.linkflair-tfnews >.linkflairlabel,.linkflair-tfnews .linkflairlabel{background-position: 0 -54px;}
+.linkflair.linkflair-tfmega >.linkflairlabel,.linkflair-tfmega .linkflairlabel{background-position: 0 -81px;}
+.linkflair.linkflair-tfsubnews >.linkflairlabel,.linkflair-tfsubnews .linkflairlabel{background-position: 0 -81px;}
+.linkflair.linkflair-tfpsa >.linkflairlabel,.linkflair-tfpsa .linkflairlabel{background-position: 0 -81px;}
+.linkflair.linkflair-tfques >.linkflairlabel,.linkflair-tfques .linkflairlabel{background-position: 0 -108px;}
+.linkflair.linkflair-tfrngfml >.linkflairlabel,.linkflair-tfrngfml .linkflairlabel{background-position: 0 -135px;}
+.linkflair.linkflair-tfvid >.linkflairlabel,.linkflair-tfvid .linkflairlabel{background-position: 0 -162px;}
+.linkflair.linkflair-tfhumor >.linkflairlabel,.linkflair-tfhumor .linkflairlabel{background-position: 0 -162px;}
+.linkflair.linkflair-tffanart >.linkflairlabel,.linkflair-tffanart .linkflairlabel{background-position: 0 -162px;}
+.linkflair.linkflair-tfjpnews >.linkflairlabel,.linkflair-tfjpnews .linkflairlabel{background-position: 0 -54px;}
+.linkflair.linkflair-tfglnews >.linkflairlabel,.linkflair-tfglnews .linkflairlabel{background-position: 0 -54px;}
+.linkflair.linkflair-tfchallenge >.linkflairlabel,.linkflair-tfchallenge .linkflairlabel{background-position: 0 -27px;}
+.linkflair.linkflair-spoilers >.linkflairlabel,.linkflair-tfspoilers .linkflairlabel{background-position: 0 -81px;}
+
+/******* FILTERS ********/
+
+html:lang(na) .link.linkflair-tfachieve {display: none}
+html:lang(nb) .link.linkflair-tfdiscuss {display: none}
+html:lang(nc) .link.linkflair-tfanalysis {display: none}
+html:lang(ne) .link.linkflair-tfguide {display: none}
+html:lang(nf) .link.linkflair-tfnews {display: none}
+html:lang(ng) .link.linkflair-tfmega {display: none}
+html:lang(nh) .link.linkflair-tfsubnews {display: none}
+html:lang(ni) .link.linkflair-tfpsa {display: none}
+html:lang(nj) .link.linkflair-tfques {display: none}
+html:lang(nk) .link.linkflair-tfrngfml {display: none}
+html:lang(vd) .link.linkflair-tfvid {display: none}
+html:lang(nm) .link.linkflair-tfhumor {display: none}
+html:lang(fn) .link.linkflair-tffanart {display: none}
+html:lang(ac) .link.linkflair-tfmilestone {display: none}
+html:lang(jn) .link.linkflair-tfjpnews {display: none}
+html:lang(wn) .link.linkflair-tfglnews {display: none}
+html:lang(ch) .link.linkflair-tfchallenge {display: none}
+html:lang(hs) .link.linkflair-tfspoilers {display: none}
+
+
+/*Attribute Color Codes*/
+a[href$="/power"]{ color:#FF3333!important;font-weight:bold; pointer-events: none;}
+a[href$="/speed"]{ color:#1a53ff!important;font-weight:bold;pointer-events: none;}
+a[href$="/tech"]{color:#19A347!important;font-weight:bold;pointer-events: none;}
+a[href$="/mind"]{color:#ffbc44!important;font-weight:bold;pointer-events: none;}
+a[href$="/heart"]{color:#AC30D6!important;font-weight:bold;pointer-events: none;}
+a[href$="/ul"]{text-decoration:underline!important;pointer-events: none;color:inherit;}
+a[href$="/bg"]{color:#fff!important;background:#222;pointer-events:none; border-radius:2px;padding:2px;}
+
+/*Wiki Gacha Page Headers*/
+.wiki-page-content h3{
+    font-size: 14px!important;
+    text-indent: 55px;
+    margin-left: -55px;
+}
+
+.wiki-page-content h2{
+    background-color: black;
+    vertical-align: middle;
+    padding: 10px;
+    color: white!important;
+    border: solid 2px grey;
+}
+
+.wiki-page-content .md ul{
+    list-style-image: url(%%bullet%%);
+}
+
+.wiki-page-content .md [href="https://www.reddit.com/r/BleachBraveSouls/wiki/index"]{
+    display: inline-block;
+    background: url(%%index%%);
+    text-indent: -9999px;
+    width: 150px;
+    height: 30px;
+}
+
+.md [href^="###"]{
+    display: inline-block;
+    height: 45px;
+    width: 180px;
+    line-height: 44px;
+    background: url(%%wiki-headers%%) no-repeat;
+    vertical-align: middle;
+    pointer-events: none;
+}
+
+.md [href="###power"] {background-position: 0 0; color:#FF3333;}
+.md [href="###speed"] {background-position: 0 -45px; color:#1a53ff;}
+.md [href="###heart"] {background-position: 0 -90px; color:#AC30D6;}
+.md [href="###mind"] {background-position: 0 -135px; color:#ffbc44;}
+.md [href="###tech"] {background-position: 0 -180px; color:#19A347;}
+.md [href="###2x"] {background-position: 0 -225px; width: 265px; color:#fff;}
+.md [href="###midmonth"] {background-position: 0 -270px; width: 265px; color:#fff;}
+.md [href="###killcap"] {background-position: -270px 0; width: 265px; color:#fff;}
+.md [href="###killesp"] {background-position: -270px -45px; width: 265px; color:#fff;}
+.md [href="###killhol"] {background-position: -270px -90px; width: 265px; color:#fff;}
+.md [href="###killarr"] {background-position: -270px -135px; width: 265px; color:#fff;}
+.md [href="###killshi"] {background-position: -270px -180px; width: 265px; color:#fff;}
+.md [href="###soultrait"] {background-position: -270px -225px; width: 265px; color:#fff;}
+.md [href="###selection"] {background-position: -270px -270px; width: 265px; color:#fff;}
+
+
+
+/*Raid Schedule Attribute Indicators*/
+.side .md [href^="##"]{
+    display: inline-block;
+    height: 18px;
+    width: 16px;
+    line-height: 15px;
+    background: url(%%tiny-att%%) no-repeat;
+    vertical-align: middle;
+    text-indent: -9999px;
+    pointer-events: none;}
+    
+.side .md [href="##th"]{background-position: 0 0;}
+.side .md [href="##tm"]{background-position: 0 -18px;}
+.side .md [href="##tp"]{background-position: 0 -36px;}
+.side .md [href="##ts"]{background-position: 0 -54px;}
+.side .md [href="##tt"]{background-position: 0 -72px;}
+
+.side .md [href="#legend"]{display:none;pointer-events:none;}
+
+/* YT link */
+.side a[href="https://www.youtube.com/channel/UCAgMq8Jv9XlmRkH2TNmI5-Q"] {
+    content: url(%%YTbanner%%);
+    margin: 0;
+    text-indent: -9999px;
+}
+
+/* new Wiki link */
+.side a[href="/r/BleachBraveSouls/wiki/index"] {
+    content: url(%%Wiki-splash%%);
+    margin: 0;
+    text-indent: -9999px;
+}
+
+/*downvote arrow*/
+
+.arrow:before { white-space: nowrap; }
+.midcol { overflow: visible; }
+.arrow.down:hover:before {
+     position: absolute;
+     z-index: 1000;
+     padding: 5px;
+     border: 0;
+     background: black;
+     content: "PLEASE Do not downvote if you disagree! Only if content does not belong here!";
+     text-align: center;
+     font-size: 15px;
+     color: white;
+     margin-left: 25px;
+     margin-top: 5px;
+     border-radius: 4px;
+}
+
+/*non-subscriber message*/
+body:not(.subscriber) > .content:before{  
+    content: url(%%warning%%) " You're not subscribed to the subreddit yet! Click the subscribe button on the right! Help us, help you! ";
+}
+
+
+/* --- END --- */
